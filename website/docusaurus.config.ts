@@ -6,8 +6,8 @@ import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
 	title: "Arsenald",
-	tagline: "",
-	favicon: "img/favicon.ico",
+	tagline: "Go + React & React Native fullstack framework",
+	favicon: "img/arsenald-white.svg",
 
 	// Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
 	future: {
@@ -41,27 +41,29 @@ const config: Config = {
 			"classic",
 			{
 				docs: {
+					routeBasePath: "/", // no blogging (for now)
 					sidebarPath: "./sidebars.ts",
 					// Please change this to your repo.
 					// Remove this to remove the "edit this page" links.
 					// editUrl:
 					// 	"https://github.com/aldesgroup/arsenald/tree/main/packages/create-docusaurus/templates/shared/",
 				},
-				blog: {
-					showReadingTime: true,
-					feedOptions: {
-						type: ["rss", "atom"],
-						xslt: true,
-					},
-					// Please change this to your repo.
-					// Remove this to remove the "edit this page" links.
-					// editUrl:
-					// 	"https://github.com/aldesgroup/arsenald/tree/main/packages/create-docusaurus/templates/shared/",
-					// Useful options to enforce blogging best practices
-					onInlineTags: "warn",
-					onInlineAuthors: "warn",
-					onUntruncatedBlogPosts: "warn",
-				},
+				blog: false,
+				// blog: {
+				// 	showReadingTime: true,
+				// 	feedOptions: {
+				// 		type: ["rss", "atom"],
+				// 		xslt: true,
+				// 	},
+				// 	// Please change this to your repo.
+				// 	// Remove this to remove the "edit this page" links.
+				// 	// editUrl:
+				// 	// 	"https://github.com/aldesgroup/arsenald/tree/main/packages/create-docusaurus/templates/shared/",
+				// 	// Useful options to enforce blogging best practices
+				// 	onInlineTags: "warn",
+				// 	onInlineAuthors: "warn",
+				// 	onUntruncatedBlogPosts: "warn",
+				// },
 				theme: {
 					customCss: "./src/css/custom.css",
 				},
@@ -76,16 +78,16 @@ const config: Config = {
 			title: "Arsenald",
 			logo: {
 				alt: "Arsenald Logo",
-				src: "img/logo.svg",
+				src: "img/arsenald.svg",
 			},
 			items: [
 				{
 					type: "docSidebar",
 					sidebarId: "tutorialSidebar",
 					position: "left",
-					label: "Tutorial",
+					label: "Guide",
 				},
-				{ to: "/blog", label: "Blog", position: "left" },
+				{ to: "/blog", label: "Reference", position: "left" },
 				{
 					href: "https://github.com/aldesgroup/arsenald",
 					label: "GitHub",
@@ -95,47 +97,47 @@ const config: Config = {
 		},
 		footer: {
 			style: "dark",
-			links: [
-				{
-					title: "Docs",
-					items: [
-						{
-							label: "Tutorial",
-							to: "/docs/intro",
-						},
-					],
-				},
-				{
-					title: "Community",
-					items: [
-						{
-							label: "Stack Overflow",
-							href: "https://stackoverflow.com/questions/tagged/docusaurus",
-						},
-						{
-							label: "Discord",
-							href: "https://discordapp.com/invite/docusaurus",
-						},
-						{
-							label: "X",
-							href: "https://x.com/docusaurus",
-						},
-					],
-				},
-				{
-					title: "More",
-					items: [
-						{
-							label: "Blog",
-							to: "/blog",
-						},
-						{
-							label: "GitHub",
-							href: "https://github.com/aldesgroup/arsenald",
-						},
-					],
-				},
-			],
+			// links: [
+			// 	{
+			// 		title: "Docs",
+			// 		items: [
+			// 			{
+			// 				label: "Tutorial",
+			// 				to: "/docs/intro",
+			// 			},
+			// 		],
+			// 	},
+			// 	{
+			// 		title: "Community",
+			// 		items: [
+			// 			{
+			// 				label: "Stack Overflow",
+			// 				href: "https://stackoverflow.com/questions/tagged/docusaurus",
+			// 			},
+			// 			{
+			// 				label: "Discord",
+			// 				href: "https://discordapp.com/invite/docusaurus",
+			// 			},
+			// 			{
+			// 				label: "X",
+			// 				href: "https://x.com/docusaurus",
+			// 			},
+			// 		],
+			// 	},
+			// 	{
+			// 		title: "More",
+			// 		items: [
+			// 			{
+			// 				label: "Blog",
+			// 				to: "/blog",
+			// 			},
+			// 			{
+			// 				label: "GitHub",
+			// 				href: "https://github.com/aldesgroup/arsenald",
+			// 			},
+			// 		],
+			// 	},
+			// ],
 			copyright: `Copyright © 2024-present Aldes Group`,
 		},
 		prism: {
