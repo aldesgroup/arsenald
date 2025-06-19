@@ -23,23 +23,22 @@ const sidebars: SidebarsConfig = {
 		{
 			type: "category",
 			label: "Aldev",
-			items: ["aldev/intro"],
+			items: ["aldev/index"],
 		},
 		{
 			type: "category",
 			label: "Goald",
-			items: ["goald/intro"],
+			items: ["goald/index"],
 		},
 		{
 			type: "category",
-			label: "Goaldn",
+			label: "GoaldN",
 			link: {
 				type: "doc",
-				id: "goaldn/intro",
+				id: "goaldn/index",
 			},
 			items: [
-				// "goaldn/intro",
-				"goaldn/intro",
+				"goaldn/index",
 				{
 					type: "category",
 					label: "API Reference",
@@ -53,8 +52,8 @@ const sidebars: SidebarsConfig = {
 		},
 		{
 			type: "category",
-			label: "Goaldr",
-			items: ["goaldr/intro"],
+			label: "GoaldR",
+			items: ["goaldr/index"],
 		},
 	],
 };

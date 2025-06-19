@@ -70,8 +70,8 @@ devotion/
 │   │   ├── intro.md            # Main introduction
 │   │   ├── aldev/              # Aldev documentation
 │   │   ├── goald/              # Goald documentation
-│   │   ├── goaldn/             # Goaldn documentation
-│   │   └── goaldr/             # Goaldr documentation
+│   │   ├── goaldn/             # GoaldN documentation
+│   │   └── goaldr/             # GoaldR documentation
 │   ├── src/                    # Source files
 │   │   ├── components/         # React components
 │   │   ├── css/               # CSS styles

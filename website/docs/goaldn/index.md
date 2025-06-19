@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Goaldn Documentation
+# GoaldN Documentation
 
-Goaldn is the React Native mobile development component of the Devotion stack. It provides a framework for building cross-platform mobile applications.
+GoaldN is the React Native mobile development component of the Devotion stack. It provides a framework for building cross-platform mobile applications.
 
 ## Features
 
@@ -14,21 +14,21 @@ Goaldn is the React Native mobile development component of the Devotion stack. I
 - State management
 - Platform-specific optimizations
 
-## Getting Started with Goaldn
+## Getting Started with GoaldN
 
-To start using Goaldn, you'll need to:
+To start using GoaldN, you'll need to:
 
 1. Install React Native
 2. Set up your development environment
-3. Initialize a new Goaldn project
+3. Initialize a new GoaldN project
 
 ## Integration with Other Components
 
-Goaldn integrates with other Devotion components:
+GoaldN integrates with other Devotion components:
 
 - **Aldev**: Mobile development tools
 - **Goald**: Backend services
-- **Goaldr**: Shared components and utilities
+- **GoaldR**: Shared components and utilities
 
 ## API
 

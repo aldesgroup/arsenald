@@ -8,8 +8,8 @@ Welcome to the Devotion documentation! Devotion is a comprehensive full-stack de
 
 - **Aldev**: Code assistance and development tools
 - **Goald**: Go application server development
-- **Goaldn**: React Native mobile development
-- **Goaldr**: React web development
+- **GoaldN**: React Native mobile development
+- **GoaldR**: React web development
 
 ## What is Devotion?
 
@@ -23,10 +23,10 @@ Code assistance and development tools that enhance your development workflow.
 ### Goald
 Go-based application server that provides robust backend services.
 
-### Goaldn
+### GoaldN
 React Native framework for building cross-platform mobile applications.
 
-### Goaldr
+### GoaldR
 React framework for building modern web applications.
 
 ## Getting Started

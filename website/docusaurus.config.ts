@@ -15,6 +15,7 @@ const config: Config = {
 	},
 
 	plugins: [
+		// NOPI-NOPE:
 		[
 			"docusaurus-plugin-typedoc",
 			{
@@ -31,8 +32,6 @@ const config: Config = {
 
 	// Set the production url of your site here
 	url: "https://aldesgroup.github.io",
-	// Set the /<baseUrl>/ pathname under which your site is served
-	// For GitHub pages deployment, it is often '/<projectName>/'
 	baseUrl: "/devotion",
 
 	// GitHub pages deployment config.
@@ -40,8 +39,9 @@ const config: Config = {
 	organizationName: "aldesgroup", // Usually your GitHub org/user name.
 	projectName: "devotion", // Usually your repo name.
 
+	// Checking the links
 	onBrokenLinks: "throw",
-	onBrokenMarkdownLinks: "warn",
+	onBrokenMarkdownLinks: "throw",
 
 	// Even if you don't use internationalization, you can use this field to set
 	// useful metadata like html lang. For example, if your site is Chinese, you
@@ -58,10 +58,6 @@ const config: Config = {
 				docs: {
 					routeBasePath: "/", // no blogging (for now)
 					sidebarPath: "./sidebars.ts",
-					// Please change this to your repo.
-					// Remove this to remove the "edit this page" links.
-					// editUrl:
-					// 	"https://github.com/aldesgroup/devotion/tree/main/packages/create-docusaurus/templates/shared/",
 				},
 				blog: false,
 				// blog: {
@@ -87,8 +83,7 @@ const config: Config = {
 	],
 
 	themeConfig: {
-		// Replace with your project's social card
-		image: "img/docusaurus-social-card.jpg",
+		image: "img/devotion.svg",
 		navbar: {
 			title: "Devotion",
 			logo: {
@@ -102,7 +97,6 @@ const config: Config = {
 					position: "left",
 					label: "Guide",
 				},
-				// { to: "/api", label: "Reference", position: "left" },
 				{
 					href: "https://github.com/aldesgroup/devotion",
 					label: "GitHub",

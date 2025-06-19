@@ -26,5 +26,5 @@ To start using Aldev, you'll need to:
 Aldev works seamlessly with other Devotion components:
 
 - **Goald**: Backend development assistance
-- **Goaldn**: Mobile development tools
-- **Goaldr**: Web development support
+- **GoaldN**: Mobile development tools
+- **GoaldR**: Web development support

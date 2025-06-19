@@ -27,5 +27,5 @@ To start using Goald, you'll need to:
 Goald integrates with other Devotion components:
 
 - **Aldev**: Development tools and assistance
-- **Goaldn**: Mobile app backend
-- **Goaldr**: Web app backend
+- **GoaldN**: Mobile app backend
+- **GoaldR**: Web app backend
