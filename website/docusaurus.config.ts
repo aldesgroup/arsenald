@@ -16,18 +16,18 @@ const config: Config = {
 
 	plugins: [
 		// NOPI-NOPE:
-		[
-			"docusaurus-plugin-typedoc",
-			{
-				entryPoints: ["../../goaldn/lib/index.ts"], // adjust path as needed
-				tsconfig: "../../goaldn/tsconfig.json",
-				out: "docs/goaldn/api",
-				sidebar: {
-					pretty: true,
-					typescript: true,
-				},
-			},
-		],
+		// [
+		// 	"docusaurus-plugin-typedoc",
+		// 	{
+		// 		entryPoints: ["../../goaldn/lib/index.ts"], // adjust path as needed
+		// 		tsconfig: "../../goaldn/tsconfig.json",
+		// 		out: "docs/goaldn/api",
+		// 		sidebar: {
+		// 			pretty: true,
+		// 			typescript: true,
+		// 		},
+		// 	},
+		// ],
 	],
 
 	// Set the production url of your site here
