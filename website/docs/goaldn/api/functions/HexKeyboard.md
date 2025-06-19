@@ -1,14 +1,8 @@
-[**Documentation**](../README.md)
-
-***
-
-[Documentation](../README.md) / HexKeyboard
-
 # Function: HexKeyboard()
 
 > **HexKeyboard**(`props`): `Element`
 
-Defined in: [lib/components/misc/HexKeyboard.tsx:19](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/components/misc/HexKeyboard.tsx#L19)
+Defined in: [goaldn/lib/components/misc/HexKeyboard.tsx:19](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/components/misc/HexKeyboard.tsx#L19)
 
 HexKeyboard - A reusable component for inputting hexadecimal characters using NativeWind.
 

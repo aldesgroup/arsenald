@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Goaldn Documentation
 
-Goaldn is the React Native mobile development component of the Arsenald stack. It provides a framework for building cross-platform mobile applications.
+Goaldn is the React Native mobile development component of the Devotion stack. It provides a framework for building cross-platform mobile applications.
 
 ## Features
 
@@ -24,8 +24,12 @@ To start using Goaldn, you'll need to:
 
 ## Integration with Other Components
 
-Goaldn integrates with other Arsenald components:
+Goaldn integrates with other Devotion components:
 
 - **Aldev**: Mobile development tools
 - **Goald**: Backend services
 - **Goaldr**: Shared components and utilities
+
+## API
+
+Check in [here](./api/index.md)

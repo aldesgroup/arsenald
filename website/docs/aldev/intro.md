@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Aldev Documentation
 
-Aldev is the code assistance and development tools component of the Arsenald stack. It provides intelligent code assistance and development tools to enhance your workflow.
+Aldev is the code assistance and development tools component of the Devotion stack. It provides intelligent code assistance and development tools to enhance your workflow.
 
 ## Features
 
@@ -23,7 +23,7 @@ To start using Aldev, you'll need to:
 
 ## Integration with Other Components
 
-Aldev works seamlessly with other Arsenald components:
+Aldev works seamlessly with other Devotion components:
 
 - **Goald**: Backend development assistance
 - **Goaldn**: Mobile development tools

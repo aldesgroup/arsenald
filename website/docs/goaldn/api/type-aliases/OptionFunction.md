@@ -1,14 +1,8 @@
-[**Documentation**](../README.md)
-
-***
-
-[Documentation](../README.md) / OptionFunction
-
 # Type Alias: OptionFunction()
 
 > **OptionFunction** = (`{navigation}`) => `NativeStackNavigationOptions`
 
-Defined in: [lib/components/app/navigation/Navigator-options.tsx:10](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/components/app/navigation/Navigator-options.tsx#L10)
+Defined in: [goaldn/lib/components/app/navigation/Navigator-options.tsx:10](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/components/app/navigation/Navigator-options.tsx#L10)
 
 Type definition for navigation option functions.
 These functions take a navigation object and return navigation options.

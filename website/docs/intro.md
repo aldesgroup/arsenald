@@ -4,16 +4,16 @@ sidebar_position: 1
 
 # Introduction
 
-Welcome to the Arsenald documentation! Arsenald is a comprehensive full-stack development stack that combines several powerful tools:
+Welcome to the Devotion documentation! Devotion is a comprehensive full-stack development stack that combines several powerful tools:
 
 - **Aldev**: Code assistance and development tools
 - **Goald**: Go application server development
 - **Goaldn**: React Native mobile development
 - **Goaldr**: React web development
 
-## What is Arsenald?
+## What is Devotion?
 
-Arsenald is a unified development stack that provides a seamless experience for building modern applications. It combines the power of Go for backend services with React and React Native for frontend development, all enhanced by intelligent code assistance tools.
+Devotion is a unified development stack that provides a seamless experience for building modern applications. It combines the power of Go for backend services with React and React Native for frontend development, all enhanced by intelligent code assistance tools.
 
 ## Key Components
 
@@ -31,7 +31,7 @@ React framework for building modern web applications.
 
 ## Getting Started
 
-To get started with Arsenald, you'll need to:
+To get started with Devotion, you'll need to:
 
 1. Set up your development environment
 2. Install the necessary tools

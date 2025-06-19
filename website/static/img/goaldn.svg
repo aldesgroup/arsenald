@@ -1,20 +1,20 @@
-<svg viewBox="0 -20 80 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 80 120" fill="none" xmlns="http://www.w3.org/2000/svg">
     <path fill="#1177FF" d="
-        M 020 000
-        L 080 060
-        L 060 080
-        L 000 020
+        M 025 015
+        L 080 080
+        L 055 105
+        L 000 040
         Z" />
     <path fill="#1155FF" d="
-        M 000 021
-        L 020 041
-        L 020 081
-        L 000 061
+        M 000 041
+        L 025 071
+        L 025 106
+        L 000 081
         Z" />
     <path fill="#1199FF" d="
-        M 060 000
-        L 080 020
-        L 080 060
-        L 060 080
+        M 055 015
+        L 080 040
+        L 080 080
+        L 055 105
         Z" />
 </svg>

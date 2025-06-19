@@ -1,14 +1,8 @@
-[**Documentation**](../README.md)
-
-***
-
-[Documentation](../README.md) / Txt
-
 # Variable: Txt
 
 > `const` **Txt**: `ForwardRefExoticComponent`\<`TxtProps` & `RefAttributes`\<`Text`\>\>
 
-Defined in: [lib/components/ui/custom/txt.tsx:50](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/components/ui/custom/txt.tsx#L50)
+Defined in: [goaldn/lib/components/ui/custom/txt.tsx:50](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/components/ui/custom/txt.tsx#L50)
 
 A text component that handles internationalization automatically.
 Supports raw text display, prepended/appended content, and translation.

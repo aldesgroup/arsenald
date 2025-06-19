@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Goaldr Documentation
 
-Goaldr is the React web development component of the Arsenald stack. It provides a framework for building modern web applications.
+Goaldr is the React web development component of the Devotion stack. It provides a framework for building modern web applications.
 
 ## Features
 
@@ -24,7 +24,7 @@ To start using Goaldr, you'll need to:
 
 ## Integration with Other Components
 
-Goaldr integrates with other Arsenald components:
+Goaldr integrates with other Devotion components:
 
 - **Aldev**: Web development tools
 - **Goald**: Backend services

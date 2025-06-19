@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Goald Documentation
 
-Goald is the Go application server component of the Arsenald stack. It provides a robust backend framework for building scalable applications.
+Goald is the Go application server component of the Devotion stack. It provides a robust backend framework for building scalable applications.
 
 ## Features
 
@@ -24,7 +24,7 @@ To start using Goald, you'll need to:
 
 ## Integration with Other Components
 
-Goald integrates with other Arsenald components:
+Goald integrates with other Devotion components:
 
 - **Aldev**: Development tools and assistance
 - **Goaldn**: Mobile app backend

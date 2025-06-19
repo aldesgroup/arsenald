@@ -11,42 +11,31 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
 	{
-		title: "Goald: Go backend",
+		title: "Goald",
 		Svg: require("@site/static/img/goald.svg").default,
-		description: (
-			<>
-				Docusaurus was designed from the ground up to be easily installed and used to get
-				your website up and running quickly.
-			</>
-		),
+		description: <>Opiniated backend framework for building application servers with Go.</>,
 	},
 	{
-		title: "Goaldr: React web frontend",
+		title: "GoaldR",
 		Svg: require("@site/static/img/goaldr.svg").default,
 		description: (
-			<>
-				Docusaurus was designed from the ground up to be easily installed and used to get
-				your website up and running quickly.
-			</>
+			<>React-based framework for building web apps working with Goald app servers.</>
 		),
 	},
 	{
-		title: "Goaldn: React Native for mobile",
+		title: "GoaldN",
 		Svg: require("@site/static/img/goaldn.svg").default,
 		description: (
-			<>
-				Docusaurus was designed from the ground up to be easily installed and used to get
-				your website up and running quickly.
-			</>
+			<>React Native framework for building mobile apps working with Goald app servers.</>
 		),
 	},
 	{
-		title: "Aldev: deterministic coding assistant",
+		title: "Aldev",
 		Svg: require("@site/static/img/aldev.svg").default,
 		description: (
 			<>
-				Docusaurus was designed from the ground up to be easily installed and used to get
-				your website up and running quickly.
+				Dev assistant that relies on Goald's Go-code-first approach in Devotion's hybrid
+				fullstack contexts.
 			</>
 		),
 	},

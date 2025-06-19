@@ -1,14 +1,8 @@
-[**Documentation**](../README.md)
-
-***
-
-[Documentation](../README.md) / initThemeColors
-
 # Function: initThemeColors()
 
 > **initThemeColors**(`colors`): `void`
 
-Defined in: [lib/styles/theme.ts:40](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/styles/theme.ts#L40)
+Defined in: [goaldn/lib/styles/theme.ts:43](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/styles/theme.ts#L43)
 
 Initializes or updates the application's theme colors.
 This function mutates the themeColors object and freezes it to prevent further changes.

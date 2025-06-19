@@ -5,25 +5,40 @@ import type * as Preset from "@docusaurus/preset-classic";
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-	title: "Arsenald",
+	title: "Devotion",
 	tagline: "Go + React & React Native fullstack framework",
-	favicon: "img/arsenald-white.svg",
+	favicon: "img/devotion-white.svg",
 
 	// Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
 	future: {
 		v4: true, // Improve compatibility with the upcoming Docusaurus v4
 	},
 
+	plugins: [
+		[
+			"docusaurus-plugin-typedoc",
+			{
+				entryPoints: ["../../goaldn/lib/index.ts"], // adjust path as needed
+				tsconfig: "../../goaldn/tsconfig.json",
+				out: "docs/goaldn/api",
+				sidebar: {
+					pretty: true,
+					typescript: true,
+				},
+			},
+		],
+	],
+
 	// Set the production url of your site here
 	url: "https://aldesgroup.github.io",
 	// Set the /<baseUrl>/ pathname under which your site is served
 	// For GitHub pages deployment, it is often '/<projectName>/'
-	baseUrl: "/arsenald",
+	baseUrl: "/devotion",
 
 	// GitHub pages deployment config.
 	// If you aren't using GitHub pages, you don't need these.
 	organizationName: "aldesgroup", // Usually your GitHub org/user name.
-	projectName: "arsenald", // Usually your repo name.
+	projectName: "devotion", // Usually your repo name.
 
 	onBrokenLinks: "throw",
 	onBrokenMarkdownLinks: "warn",
@@ -46,7 +61,7 @@ const config: Config = {
 					// Please change this to your repo.
 					// Remove this to remove the "edit this page" links.
 					// editUrl:
-					// 	"https://github.com/aldesgroup/arsenald/tree/main/packages/create-docusaurus/templates/shared/",
+					// 	"https://github.com/aldesgroup/devotion/tree/main/packages/create-docusaurus/templates/shared/",
 				},
 				blog: false,
 				// blog: {
@@ -58,7 +73,7 @@ const config: Config = {
 				// 	// Please change this to your repo.
 				// 	// Remove this to remove the "edit this page" links.
 				// 	// editUrl:
-				// 	// 	"https://github.com/aldesgroup/arsenald/tree/main/packages/create-docusaurus/templates/shared/",
+				// 	// 	"https://github.com/aldesgroup/devotion/tree/main/packages/create-docusaurus/templates/shared/",
 				// 	// Useful options to enforce blogging best practices
 				// 	onInlineTags: "warn",
 				// 	onInlineAuthors: "warn",
@@ -75,21 +90,21 @@ const config: Config = {
 		// Replace with your project's social card
 		image: "img/docusaurus-social-card.jpg",
 		navbar: {
-			title: "Arsenald",
+			title: "Devotion",
 			logo: {
-				alt: "Arsenald Logo",
-				src: "img/arsenald.svg",
+				alt: "Devotion Logo",
+				src: "img/devotion.svg",
 			},
 			items: [
 				{
 					type: "docSidebar",
-					sidebarId: "tutorialSidebar",
+					sidebarId: "guideSidebar",
 					position: "left",
 					label: "Guide",
 				},
-				{ to: "/blog", label: "Reference", position: "left" },
+				// { to: "/api", label: "Reference", position: "left" },
 				{
-					href: "https://github.com/aldesgroup/arsenald",
+					href: "https://github.com/aldesgroup/devotion",
 					label: "GitHub",
 					position: "right",
 				},
@@ -133,7 +148,7 @@ const config: Config = {
 			// 			},
 			// 			{
 			// 				label: "GitHub",
-			// 				href: "https://github.com/aldesgroup/arsenald",
+			// 				href: "https://github.com/aldesgroup/devotion",
 			// 			},
 			// 		],
 			// 	},

@@ -1,18 +1,10 @@
-**Documentation**
-
-***
-
 # Documentation
 
-## Interfaces
+## Other
 
 - [MenuProps](interfaces/MenuProps.md)
-
-## Type Aliases
-
 - [AvatarProps](type-aliases/AvatarProps.md)
 - [buttonVariantsType](type-aliases/buttonVariantsType.md)
-- [colorsType](type-aliases/colorsType.md)
 - [FieldConfig](type-aliases/FieldConfig.md)
 - [FieldConfigAtom](type-aliases/FieldConfigAtom.md)
 - [FieldConfigOption](type-aliases/FieldConfigOption.md)
@@ -22,9 +14,6 @@
 - [OptionFunction](type-aliases/OptionFunction.md)
 - [PDFGenerationOptions](type-aliases/PDFGenerationOptions.md)
 - [stepperConfig](type-aliases/stepperConfig.md)
-
-## Variables
-
 - [bleManagerAtom](variables/bleManagerAtom.md)
 - [Button](variables/Button.md)
 - [connectedDeviceAtom](variables/connectedDeviceAtom.md)
@@ -32,7 +21,6 @@
 - [detectFromScaleAtom](variables/detectFromScaleAtom.md)
 - [detectSmallScreenAtom](variables/detectSmallScreenAtom.md)
 - [deviceLng](variables/deviceLng.md)
-- [getColors](variables/getColors.md)
 - [isBondingRequiredAtom](variables/isBondingRequiredAtom.md)
 - [isMockEnabled](variables/isMockEnabled.md)
 - [languageAtom](variables/languageAtom.md)
@@ -44,9 +32,6 @@
 - [smallScreenAtom](variables/smallScreenAtom.md)
 - [Txt](variables/Txt.md)
 - [userSetSmallScreenAtom](variables/userSetSmallScreenAtom.md)
-
-## Functions
-
 - [Avatar](functions/Avatar.md)
 - [AvatarOption](functions/AvatarOption.md)
 - [BleConnectionButton](functions/BleConnectionButton.md)
@@ -73,7 +58,6 @@
 - [HexKeyboard](functions/HexKeyboard.md)
 - [ImageCarousel](functions/ImageCarousel.md)
 - [initI18n](functions/initI18n.md)
-- [initThemeColors](functions/initThemeColors.md)
 - [LanguageSwitcher](functions/LanguageSwitcher.md)
 - [LanguageSwitcherOption\_](functions/LanguageSwitcherOption.md)
 - [MainNavigator](functions/MainNavigator.md)
@@ -111,3 +95,9 @@
 - [useTranslator](functions/useTranslator.md)
 - [ViewWithFooter](functions/ViewWithFooter.md)
 - [ViewWithStepper](functions/ViewWithStepper.md)
+
+## Styles
+
+- [colorsType](type-aliases/colorsType.md)
+- [getColors](variables/getColors.md)
+- [initThemeColors](functions/initThemeColors.md)

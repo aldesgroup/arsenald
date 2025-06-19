@@ -1,6 +1,6 @@
-# Arsenald Documentation
+# Devotion Documentation
 
-This repository contains the documentation for the Arsenald project, a comprehensive full-stack development stack. The documentation is built using Docusaurus 2, a modern static website generator.
+This repository contains the documentation for the Devotion project, a comprehensive full-stack development stack. The documentation is built using Docusaurus 2, a modern static website generator.
 
 ## Prerequisites
 
@@ -13,8 +13,8 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/arsenald.git
-cd arsenald
+git clone https://github.com/yourusername/devotion.git
+cd devotion
 ```
 
 2. Navigate to the website directory and install dependencies:
@@ -64,7 +64,7 @@ GIT_USER=<your-github-username> npm run deploy
 ## Project Structure
 
 ```
-arsenald/
+devotion/
 ├── website/
 │   ├── docs/                    # Documentation files
 │   │   ├── intro.md            # Main introduction

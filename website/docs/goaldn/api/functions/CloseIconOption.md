@@ -1,14 +1,8 @@
-[**Documentation**](../README.md)
-
-***
-
-[Documentation](../README.md) / CloseIconOption
-
 # Function: CloseIconOption()
 
 > **CloseIconOption**(`quitToScreen?`, `quitBackToRoot?`): (`__namedParameters`) => `object`
 
-Defined in: [lib/components/app/navigation/Navigator-options.tsx:36](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/components/app/navigation/Navigator-options.tsx#L36)
+Defined in: [goaldn/lib/components/app/navigation/Navigator-options.tsx:36](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/components/app/navigation/Navigator-options.tsx#L36)
 
 Creates navigation options to show a close (X) icon in the header.
 The icon can navigate to a specific screen, back to root, or just go back.

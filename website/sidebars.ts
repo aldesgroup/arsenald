@@ -1,4 +1,5 @@
 import type { SidebarsConfig } from "@docusaurus/plugin-content-docs";
+import goaldnMenu from "./docs/goaldn/api/typedoc-sidebar";
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
@@ -13,7 +14,7 @@ import type { SidebarsConfig } from "@docusaurus/plugin-content-docs";
  Create as many sidebars as you want.
  */
 const sidebars: SidebarsConfig = {
-	tutorialSidebar: [
+	guideSidebar: [
 		{
 			type: "doc",
 			id: "intro",
@@ -21,29 +22,39 @@ const sidebars: SidebarsConfig = {
 		},
 		{
 			type: "category",
-			label: "Components",
+			label: "Aldev",
+			items: ["aldev/intro"],
+		},
+		{
+			type: "category",
+			label: "Goald",
+			items: ["goald/intro"],
+		},
+		{
+			type: "category",
+			label: "Goaldn",
+			link: {
+				type: "doc",
+				id: "goaldn/intro",
+			},
 			items: [
+				// "goaldn/intro",
+				"goaldn/intro",
 				{
 					type: "category",
-					label: "Aldev",
-					items: ["aldev/intro"],
-				},
-				{
-					type: "category",
-					label: "Goald",
-					items: ["goald/intro"],
-				},
-				{
-					type: "category",
-					label: "Goaldn",
-					items: ["goaldn/intro"],
-				},
-				{
-					type: "category",
-					label: "Goaldr",
-					items: ["goaldr/intro"],
+					label: "API Reference",
+					link: {
+						type: "doc",
+						id: "goaldn/api/index",
+					},
+					items: goaldnMenu.items,
 				},
 			],
+		},
+		{
+			type: "category",
+			label: "Goaldr",
+			items: ["goaldr/intro"],
 		},
 	],
 };

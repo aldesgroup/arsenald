@@ -1,14 +1,8 @@
-[**Documentation**](../README.md)
-
-***
-
-[Documentation](../README.md) / EnumField
-
 # Function: EnumField()
 
 > **EnumField**\<`confAtom`\>(`props`): `undefined` \| `false` \| `Element`
 
-Defined in: [lib/components/ui/custom/enum-field.tsx:134](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/components/ui/custom/enum-field.tsx#L134)
+Defined in: [goaldn/lib/components/ui/custom/enum-field.tsx:134](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/components/ui/custom/enum-field.tsx#L134)
 
 A component that renders a group of enum options with selection functionality.
 Supports different display modes and integrates with form-atoms.
@@ -17,7 +11,7 @@ Supports different display modes and integrates with form-atoms.
 
 ### confAtom
 
-`confAtom` *extends* `Atom`\<[`FieldConfig`](../type-aliases/FieldConfig.md)\<`number`\>, `confAtom`\>
+`confAtom` *extends* [`FieldConfigAtom`](../type-aliases/FieldConfigAtom.md)\<`number`\>
 
 The type of the field configuration atom
 
