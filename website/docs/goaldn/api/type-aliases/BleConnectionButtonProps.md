@@ -1,10 +1,10 @@
-# Type Alias: BleConnectionButtonProps
+# Type Alias: BLEConnectionButtonProps
 
-> **BleConnectionButtonProps** = `object`
+> **BLEConnectionButtonProps** = `object`
 
-Defined in: [lib/bluetooth/BleConnectionButton.tsx:8](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/bluetooth/BleConnectionButton.tsx#L8)
+Defined in: lib/bluetooth/BLEConnectionButton.tsx:8
 
-Props for the BleConnectionButton component.
+Props for the BLEConnectionButton component.
 
 ## Properties
 
@@ -12,7 +12,7 @@ Props for the BleConnectionButton component.
 
 > `optional` **buttonClass**: `string`
 
-Defined in: [lib/bluetooth/BleConnectionButton.tsx:12](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/bluetooth/BleConnectionButton.tsx#L12)
+Defined in: lib/bluetooth/BLEConnectionButton.tsx:12
 
 Additional CSS classes for the button container.
 
@@ -22,7 +22,7 @@ Additional CSS classes for the button container.
 
 > `optional` **label**: `string`
 
-Defined in: [lib/bluetooth/BleConnectionButton.tsx:10](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/bluetooth/BleConnectionButton.tsx#L10)
+Defined in: lib/bluetooth/BLEConnectionButton.tsx:10
 
 The text to display on the button. Defaults to 'Connect using Bluetooth'.
 
@@ -32,6 +32,6 @@ The text to display on the button. Defaults to 'Connect using Bluetooth'.
 
 > `optional` **textClass**: `string`
 
-Defined in: [lib/bluetooth/BleConnectionButton.tsx:14](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/bluetooth/BleConnectionButton.tsx#L14)
+Defined in: lib/bluetooth/BLEConnectionButton.tsx:14
 
 Additional CSS classes for the button text.

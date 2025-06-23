@@ -1,8 +1,8 @@
-# Function: BleConnectionScreen()
+# Function: BLEConnectionScreen()
 
-> **BleConnectionScreen**(`props`): `Element`
+> **BLEConnectionScreen**(`props`): `Element`
 
-Defined in: [lib/bluetooth/BleConnectionScreen.tsx:25](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/bluetooth/BleConnectionScreen.tsx#L25)
+Defined in: lib/bluetooth/BLEConnectionScreen.tsx:25
 
 A screen component for managing Bluetooth Low Energy (BLE) device connections.
 Handles device scanning, connection, and permission management.

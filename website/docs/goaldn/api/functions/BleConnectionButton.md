@@ -1,8 +1,8 @@
-# Function: BleConnectionButton()
+# Function: BLEConnectionButton()
 
-> **BleConnectionButton**(`props`): `Element`
+> **BLEConnectionButton**(`props`): `Element`
 
-Defined in: [lib/bluetooth/BleConnectionButton.tsx:24](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/bluetooth/BleConnectionButton.tsx#L24)
+Defined in: lib/bluetooth/BLEConnectionButton.tsx:24
 
 A button component for initiating Bluetooth connections.
 Displays a Bluetooth icon and customizable text label.
@@ -11,7 +11,7 @@ Displays a Bluetooth icon and customizable text label.
 
 ### props
 
-[`BleConnectionButtonProps`](../type-aliases/BleConnectionButtonProps.md) & `Omit`\<`PressableProps` & `RefAttributes`\<`View`\>, `"ref"`\> & `VariantProps`\<(`props?`) => `string`\>
+[`BLEConnectionButtonProps`](../type-aliases/BLEConnectionButtonProps.md) & `Omit`\<`PressableProps` & `RefAttributes`\<`View`\>, `"ref"`\> & `VariantProps`\<(`props?`) => `string`\>
 
 The component props.
 

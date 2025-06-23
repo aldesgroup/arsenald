@@ -73,18 +73,18 @@ const typedocSidebar: SidebarsConfig = {
         },
         {
           type: "doc",
-          id: "goaldn/api/functions/BleConnectionButton",
-          label: "BleConnectionButton"
+          id: "goaldn/api/functions/BLEConnectionButton",
+          label: "BLEConnectionButton"
         },
         {
           type: "doc",
-          id: "goaldn/api/functions/BleConnectionMonitor",
-          label: "BleConnectionMonitor"
+          id: "goaldn/api/functions/BLEConnectionMonitor",
+          label: "BLEConnectionMonitor"
         },
         {
           type: "doc",
-          id: "goaldn/api/functions/BleConnectionScreen",
-          label: "BleConnectionScreen"
+          id: "goaldn/api/functions/BLEConnectionScreen",
+          label: "BLEConnectionScreen"
         },
         {
           type: "doc",
@@ -473,8 +473,8 @@ const typedocSidebar: SidebarsConfig = {
         },
         {
           type: "doc",
-          id: "goaldn/api/type-aliases/BleConnectionButtonProps",
-          label: "BleConnectionButtonProps"
+          id: "goaldn/api/type-aliases/BLEConnectionButtonProps",
+          label: "BLEConnectionButtonProps"
         },
         {
           type: "doc",
