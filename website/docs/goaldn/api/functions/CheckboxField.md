@@ -2,7 +2,7 @@
 
 > **CheckboxField**\<`confAtom`\>(`props`): `false` \| `Element`
 
-Defined in: [goaldn/lib/components/ui/custom/checkbox-field.tsx:41](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/components/ui/custom/checkbox-field.tsx#L41)
+Defined in: [lib/forms/CheckboxField.tsx:40](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/forms/CheckboxField.tsx#L40)
 
 A checkbox component that integrates with form-atoms for form state management.
 Supports group behavior with associated fields and customizable styling.
@@ -11,7 +11,7 @@ Supports group behavior with associated fields and customizable styling.
 
 ### confAtom
 
-`confAtom` *extends* [`FieldConfigAtom`](../type-aliases/FieldConfigAtom.md)\<`boolean`\>
+`confAtom` *extends* `Atom`\<[`FieldConfig`](../type-aliases/FieldConfig.md)\<`boolean`\>, `confAtom`\>
 
 The type of the field configuration atom
 
@@ -19,7 +19,7 @@ The type of the field configuration atom
 
 ### props
 
-`CheckboxFieldProps`\<`confAtom`\>
+[`CheckboxFieldProps`](../type-aliases/CheckboxFieldProps.md)\<`confAtom`\>
 
 The component props
 

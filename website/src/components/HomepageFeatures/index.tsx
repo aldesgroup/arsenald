@@ -39,8 +39,8 @@ const FeatureList: FeatureItem[] = [
 		Svg: require("@site/static/img/aldev.svg").default,
 		description: (
 			<>
-				Dev assistant that relies on Goald's Go-code-first approach in Devotion's hybrid
-				fullstack contexts.
+				Dev assistant that relies on Goald's Go-code-first approach in Devotion-based app
+				projects.
 			</>
 		),
 	},

@@ -2,7 +2,7 @@
 
 > **useSetFormField**\<`Value`\>(`conf`): (`value`) => `void`
 
-Defined in: [goaldn/lib/utils/fields.ts:160](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/utils/fields.ts#L160)
+Defined in: [lib/forms/fields.ts:169](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/forms/fields.ts#L169)
 
 Hook to set the value of a form field.
 

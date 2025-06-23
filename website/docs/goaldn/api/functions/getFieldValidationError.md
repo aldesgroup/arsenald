@@ -2,7 +2,7 @@
 
 > **getFieldValidationError**\<`Value`\>(`fieldConfAtom`): `null` \| [`FieldValueError`](../type-aliases/FieldValueError.md)
 
-Defined in: [goaldn/lib/utils/fields.ts:96](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/utils/fields.ts#L96)
+Defined in: [lib/forms/fields.ts:103](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/forms/fields.ts#L103)
 
 Hook to check if a particular field is valid, using the field's configured 'valid' custom hook,
 or the field's configured basic constraints. Returns null if valid, the validation error otherwise.

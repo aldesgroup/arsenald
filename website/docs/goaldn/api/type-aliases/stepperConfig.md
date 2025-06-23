@@ -1,8 +1,8 @@
-# Type Alias: stepperConfig
+# Type Alias: StepperConfig
 
-> **stepperConfig** = `object`
+> **StepperConfig** = `object`
 
-Defined in: [goaldn/lib/components/ui/custom/stepper.tsx:37](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/components/ui/custom/stepper.tsx#L37)
+Defined in: [lib/layout/Stepper.tsx:32](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/layout/Stepper.tsx#L32)
 
 Configuration for the entire stepper component.
 
@@ -12,7 +12,7 @@ Configuration for the entire stepper component.
 
 > **endRoute**: `string` \| `null`
 
-Defined in: [goaldn/lib/components/ui/custom/stepper.tsx:41](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/components/ui/custom/stepper.tsx#L41)
+Defined in: [lib/layout/Stepper.tsx:40](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/layout/Stepper.tsx#L40)
 
 The final route to end at
 
@@ -22,7 +22,7 @@ The final route to end at
 
 > `optional` **locked**: `boolean`
 
-Defined in: [goaldn/lib/components/ui/custom/stepper.tsx:43](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/components/ui/custom/stepper.tsx#L43)
+Defined in: [lib/layout/Stepper.tsx:44](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/layout/Stepper.tsx#L44)
 
 Whether the entire stepper is locked
 
@@ -32,7 +32,7 @@ Whether the entire stepper is locked
 
 > **maxReachedStep**: `number`
 
-Defined in: [goaldn/lib/components/ui/custom/stepper.tsx:42](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/components/ui/custom/stepper.tsx#L42)
+Defined in: [lib/layout/Stepper.tsx:42](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/layout/Stepper.tsx#L42)
 
 The highest step index reached so far
 
@@ -42,7 +42,7 @@ The highest step index reached so far
 
 > **rawLabels**: `boolean`
 
-Defined in: [goaldn/lib/components/ui/custom/stepper.tsx:38](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/components/ui/custom/stepper.tsx#L38)
+Defined in: [lib/layout/Stepper.tsx:34](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/layout/Stepper.tsx#L34)
 
 Whether to use raw (untranslated) labels
 
@@ -52,7 +52,7 @@ Whether to use raw (untranslated) labels
 
 > **startRoute**: `string` \| `null`
 
-Defined in: [goaldn/lib/components/ui/custom/stepper.tsx:39](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/components/ui/custom/stepper.tsx#L39)
+Defined in: [lib/layout/Stepper.tsx:36](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/layout/Stepper.tsx#L36)
 
 The initial route to start from
 
@@ -62,6 +62,6 @@ The initial route to start from
 
 > **steps**: `stepConfig`[]
 
-Defined in: [goaldn/lib/components/ui/custom/stepper.tsx:40](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/components/ui/custom/stepper.tsx#L40)
+Defined in: [lib/layout/Stepper.tsx:38](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/layout/Stepper.tsx#L38)
 
 Array of step configurations

@@ -1,8 +1,8 @@
-# Function: NewStepperConfig()
+# Function: newStepperConfig()
 
-> **NewStepperConfig**(`rawLabels`, `startRoute`, `steps`, `endRoute`): `WritableAtom`\<[`stepperConfig`](../type-aliases/stepperConfig.md), \[`SetStateActionWithReset`\<[`stepperConfig`](../type-aliases/stepperConfig.md)\>\], `void`\> & `WithInitialValue`\<[`stepperConfig`](../type-aliases/stepperConfig.md)\>
+> **newStepperConfig**(`rawLabels`, `startRoute`, `steps`, `endRoute`): `WritableAtom`\<[`StepperConfig`](../type-aliases/StepperConfig.md), \[`SetStateActionWithReset`\<[`StepperConfig`](../type-aliases/StepperConfig.md)\>\], `void`\> & `WithInitialValue`\<[`StepperConfig`](../type-aliases/StepperConfig.md)\>
 
-Defined in: [goaldn/lib/components/ui/custom/stepper.tsx:55](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/components/ui/custom/stepper.tsx#L55)
+Defined in: [lib/layout/Stepper.tsx:57](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/layout/Stepper.tsx#L57)
 
 Creates a new stepper configuration atom with reset capability.
 
@@ -34,6 +34,6 @@ The final route to end at
 
 ## Returns
 
-`WritableAtom`\<[`stepperConfig`](../type-aliases/stepperConfig.md), \[`SetStateActionWithReset`\<[`stepperConfig`](../type-aliases/stepperConfig.md)\>\], `void`\> & `WithInitialValue`\<[`stepperConfig`](../type-aliases/stepperConfig.md)\>
+`WritableAtom`\<[`StepperConfig`](../type-aliases/StepperConfig.md), \[`SetStateActionWithReset`\<[`StepperConfig`](../type-aliases/StepperConfig.md)\>\], `void`\> & `WithInitialValue`\<[`StepperConfig`](../type-aliases/StepperConfig.md)\>
 
 A writable atom containing the stepper configuration

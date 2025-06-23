@@ -23,6 +23,12 @@ cd website
 npm install
 ```
 
+3. Build the tooling
+```bash
+cd tools
+go build -o ../bin/fix-sidebar.exe fix-sidebar.go
+```
+
 ## Development
 
 To start the development server:

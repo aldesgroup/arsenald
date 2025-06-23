@@ -2,7 +2,7 @@
 
 > **SwitchField**\<`confAtom`\>(`props`): `false` \| `Element`
 
-Defined in: [goaldn/lib/components/ui/custom/switch-field.tsx:32](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/components/ui/custom/switch-field.tsx#L32)
+Defined in: [lib/forms/SwitchField.tsx:33](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/forms/SwitchField.tsx#L33)
 
 A form field component that renders a switch input.
 The switch state is controlled by the field configuration atom.
@@ -11,13 +11,13 @@ The switch state is controlled by the field configuration atom.
 
 ### confAtom
 
-`confAtom` *extends* [`FieldConfigAtom`](../type-aliases/FieldConfigAtom.md)\<`boolean`\>
+`confAtom` *extends* `Atom`\<[`FieldConfig`](../type-aliases/FieldConfig.md)\<`boolean`\>, `confAtom`\>
 
 ## Parameters
 
 ### props
 
-`SwitchFieldProps`\<`confAtom`\>
+[`SwitchFieldProps`](../type-aliases/SwitchFieldProps.md)\<`confAtom`\>
 
 The component props
 

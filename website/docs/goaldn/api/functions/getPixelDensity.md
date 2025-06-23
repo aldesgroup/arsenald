@@ -2,7 +2,7 @@
 
 > **getPixelDensity**(): `number`
 
-Defined in: [goaldn/lib/utils/settings.ts:56](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/utils/settings.ts#L56)
+Defined in: [lib/settings/settings.ts:64](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/settings/settings.ts#L64)
 
 Returns the current pixel density of the device.
 

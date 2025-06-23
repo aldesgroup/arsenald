@@ -2,7 +2,7 @@
 
 > **AvatarProps** = `object`
 
-Defined in: [goaldn/lib/components/app/Avatar.tsx:25](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/components/app/Avatar.tsx#L25)
+Defined in: [lib/layout/Avatar.tsx:23](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/layout/Avatar.tsx#L23)
 
 Props for the Avatar component.
 
@@ -12,7 +12,7 @@ Props for the Avatar component.
 
 > `optional` **className**: `string`
 
-Defined in: [goaldn/lib/components/app/Avatar.tsx:28](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/components/app/Avatar.tsx#L28)
+Defined in: [lib/layout/Avatar.tsx:29](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/layout/Avatar.tsx#L29)
 
 Additional CSS classes for the container
 
@@ -22,7 +22,7 @@ Additional CSS classes for the container
 
 > **entries**: `AvatarEntry`[]
 
-Defined in: [goaldn/lib/components/app/Avatar.tsx:26](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/components/app/Avatar.tsx#L26)
+Defined in: [lib/layout/Avatar.tsx:25](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/layout/Avatar.tsx#L25)
 
 Array of menu entries to display
 
@@ -32,6 +32,6 @@ Array of menu entries to display
 
 > `optional` **trigger**: `React.ReactNode`
 
-Defined in: [goaldn/lib/components/app/Avatar.tsx:27](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/components/app/Avatar.tsx#L27)
+Defined in: [lib/layout/Avatar.tsx:27](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/layout/Avatar.tsx#L27)
 
 Custom trigger element to show/hide the menu

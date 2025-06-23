@@ -2,7 +2,7 @@
 
 > **useFormFieldValue**\<`Value`\>(`conf`): `Value`
 
-Defined in: [goaldn/lib/utils/fields.ts:149](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/utils/fields.ts#L149)
+Defined in: [lib/forms/fields.ts:157](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/forms/fields.ts#L157)
 
 Hook to get the value of a form field.
 

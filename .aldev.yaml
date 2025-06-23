@@ -1,0 +1,10 @@
+jobs:
+    - description: "Generate GoaldN's documentation"
+      from: "../goaldn"
+      cmds:
+          # only works in Powershell
+          - exec: "pwsh -Command Remove-Item -Recurse -Force ./website/docs/goaldn/api -ErrorAction SilentlyContinue"
+            failok: true
+          - exec: "npx typedoc"
+            from: "../goaldn"
+          - exec: "bin/replace-all.exe -file ./website/docs/goaldn/api/typedoc-sidebar.ts -args ../../devotion/website/docs/:"

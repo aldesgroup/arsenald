@@ -2,7 +2,7 @@
 
 > **BottomView**(`__namedParameters`): `Element`
 
-Defined in: [goaldn/lib/components/app/BottomView.tsx:17](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/components/app/BottomView.tsx#L17)
+Defined in: [lib/layout/BottomView.tsx:17](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/layout/BottomView.tsx#L17)
 
 A bottom sheet component that slides up from the bottom of the screen with a customizable height.
 It includes a header with a title and close button, and can display any content in its body.

@@ -2,7 +2,7 @@
 
 > **generatePDF**(`options`): `Promise`\<`string`\>
 
-Defined in: [goaldn/lib/utils/pdf.ts:24](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/utils/pdf.ts#L24)
+Defined in: [lib/media/pdf.ts:26](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/media/pdf.ts#L26)
 
 Generates a PDF file from the provided HTML content.
 

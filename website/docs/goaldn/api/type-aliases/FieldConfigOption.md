@@ -2,7 +2,7 @@
 
 > **FieldConfigOption** = `object`
 
-Defined in: [goaldn/lib/utils/fields.ts:11](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/utils/fields.ts#L11)
+Defined in: [lib/forms/fields.ts:12](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/forms/fields.ts#L12)
 
 Type definition for a field configuration option.
 
@@ -12,7 +12,7 @@ Type definition for a field configuration option.
 
 > **label**: `string`
 
-Defined in: [goaldn/lib/utils/fields.ts:11](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/utils/fields.ts#L11)
+Defined in: [lib/forms/fields.ts:12](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/forms/fields.ts#L12)
 
 The label of the option.
 
@@ -22,6 +22,6 @@ The label of the option.
 
 > **value**: `number`
 
-Defined in: [goaldn/lib/utils/fields.ts:11](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/utils/fields.ts#L11)
+Defined in: [lib/forms/fields.ts:12](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/forms/fields.ts#L12)
 
 The value of the option.
