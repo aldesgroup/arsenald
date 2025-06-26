@@ -2,7 +2,7 @@
 
 > **CheckboxFieldProps**\<`T`\> = `object`
 
-Defined in: [lib/forms/CheckboxField.tsx:14](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/forms/CheckboxField.tsx#L14)
+Defined in: [lib/forms/CheckboxField.tsx:14](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/forms/CheckboxField.tsx#L14)
 
 Props for the CheckboxField component.
 
@@ -20,7 +20,7 @@ The type of the field configuration atom
 
 > `optional` **associated**: `T`[]
 
-Defined in: [lib/forms/CheckboxField.tsx:28](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/forms/CheckboxField.tsx#L28)
+Defined in: [lib/forms/CheckboxField.tsx:28](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/forms/CheckboxField.tsx#L28)
 
 Array of associated field configuration atoms for group behavior
 
@@ -30,7 +30,7 @@ Array of associated field configuration atoms for group behavior
 
 > `optional` **boxClassName**: `string`
 
-Defined in: [lib/forms/CheckboxField.tsx:26](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/forms/CheckboxField.tsx#L26)
+Defined in: [lib/forms/CheckboxField.tsx:26](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/forms/CheckboxField.tsx#L26)
 
 Additional CSS classes for the checkbox box
 
@@ -40,7 +40,7 @@ Additional CSS classes for the checkbox box
 
 > `optional` **className**: `string`
 
-Defined in: [lib/forms/CheckboxField.tsx:16](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/forms/CheckboxField.tsx#L16)
+Defined in: [lib/forms/CheckboxField.tsx:16](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/forms/CheckboxField.tsx#L16)
 
 Additional CSS classes for the container
 
@@ -50,7 +50,7 @@ Additional CSS classes for the container
 
 > **field**: `T`
 
-Defined in: [lib/forms/CheckboxField.tsx:24](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/forms/CheckboxField.tsx#L24)
+Defined in: [lib/forms/CheckboxField.tsx:24](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/forms/CheckboxField.tsx#L24)
 
 The field configuration atom
 
@@ -60,7 +60,7 @@ The field configuration atom
 
 > `optional` **label**: `string`
 
-Defined in: [lib/forms/CheckboxField.tsx:18](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/forms/CheckboxField.tsx#L18)
+Defined in: [lib/forms/CheckboxField.tsx:18](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/forms/CheckboxField.tsx#L18)
 
 Text label for the checkbox
 
@@ -70,7 +70,7 @@ Text label for the checkbox
 
 > `optional` **labelClassName**: `string`
 
-Defined in: [lib/forms/CheckboxField.tsx:20](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/forms/CheckboxField.tsx#L20)
+Defined in: [lib/forms/CheckboxField.tsx:20](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/forms/CheckboxField.tsx#L20)
 
 Additional CSS classes for the label
 
@@ -80,6 +80,6 @@ Additional CSS classes for the label
 
 > `optional` **labelPrepend**: `boolean`
 
-Defined in: [lib/forms/CheckboxField.tsx:22](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/forms/CheckboxField.tsx#L22)
+Defined in: [lib/forms/CheckboxField.tsx:22](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/forms/CheckboxField.tsx#L22)
 
 Whether to show the label before the checkbox

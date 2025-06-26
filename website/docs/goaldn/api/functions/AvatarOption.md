@@ -2,7 +2,7 @@
 
 > **AvatarOption**(`props`): (`__namedParameters`) => `object`
 
-Defined in: [lib/navigation/Navigator-options.tsx:114](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/navigation/Navigator-options.tsx#L114)
+Defined in: [lib/navigation/Navigator-options.tsx:114](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/navigation/Navigator-options.tsx#L114)
 
 Creates navigation options to display an Avatar component in the header.
 

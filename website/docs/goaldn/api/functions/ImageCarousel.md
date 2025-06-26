@@ -2,7 +2,7 @@
 
 > **ImageCarousel**\<`T`\>(`props`): `Element`
 
-Defined in: [lib/layout/ImageCarousel.tsx:22](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/layout/ImageCarousel.tsx#L22)
+Defined in: [lib/layout/ImageCarousel.tsx:22](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/layout/ImageCarousel.tsx#L22)
 
 A carousel component for displaying a series of images with navigation dots.
 Supports parallax scrolling effect and customizable dimensions.

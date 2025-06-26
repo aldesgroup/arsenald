@@ -2,7 +2,7 @@
 
 > **EnumAtomProps**\<`T`, `A`\> = `object` & [`InputLabelProps`](InputLabelProps.md)
 
-Defined in: [lib/state-management/EnumAtom.tsx:145](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/state-management/EnumAtom.tsx#L145)
+Defined in: [lib/state-management/EnumAtom.tsx:145](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/state-management/EnumAtom.tsx#L145)
 
 Props for the EnumAtom component.
 

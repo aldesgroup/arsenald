@@ -2,7 +2,7 @@
 
 > **LanguageSwitcher**(): `Element`
 
-Defined in: [lib/settings/LanguageSwitcher.tsx:17](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/settings/LanguageSwitcher.tsx#L17)
+Defined in: [lib/settings/LanguageSwitcher.tsx:17](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/settings/LanguageSwitcher.tsx#L17)
 
 LanguageSwitcher component allows users to cycle through available languages.
 Displays the current language and, if not in production, an environment indicator.

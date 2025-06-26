@@ -19,9 +19,9 @@
 - [MOCK\_DEVICE\_ID](variables/MOCK_DEVICE_ID.md)
 - [MOCK\_DEVICE\_NAME](variables/MOCK_DEVICE_NAME.md)
 - [mockPeripheral](variables/mockPeripheral.md)
-- [BLEConnectionButton](functions/BLEConnectionButton.md)
-- [BLEConnectionMonitor](functions/BLEConnectionMonitor.md)
-- [BLEConnectionScreen](functions/BLEConnectionScreen.md)
+- [BluetoothConnectionButton](functions/BluetoothConnectionButton.md)
+- [BluetoothConnectionMonitor](functions/BluetoothConnectionMonitor.md)
+- [BluetoothConnectionScreen](functions/BluetoothConnectionScreen.md)
 - [getBleManager](functions/getBleManager.md)
 
 ## Forms
@@ -128,7 +128,7 @@
 ## Types
 
 - [AvatarProps](type-aliases/AvatarProps.md)
-- [BLEConnectionButtonProps](type-aliases/BLEConnectionButtonProps.md)
+- [BluetoothConnectionButtonProps](type-aliases/BluetoothConnectionButtonProps.md)
 - [ButtonProps](type-aliases/ButtonProps.md)
 - [buttonVariantsType](type-aliases/buttonVariantsType.md)
 - [CheckboxAtomProps](type-aliases/CheckboxAtomProps.md)

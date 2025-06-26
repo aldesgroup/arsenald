@@ -2,7 +2,7 @@
 
 > **useDateFormatter**(): (`date?`) => `string`
 
-Defined in: [lib/utils/date.ts:13](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/utils/date.ts#L13)
+Defined in: [lib/utils/date.ts:13](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/utils/date.ts#L13)
 
 Hook that returns a date formatter function based on the current language setting.
 Returns an English formatter if language is 'en', otherwise returns a French formatter.

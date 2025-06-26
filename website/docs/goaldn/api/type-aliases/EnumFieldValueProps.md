@@ -2,7 +2,7 @@
 
 > **EnumFieldValueProps** = `object`
 
-Defined in: [lib/forms/EnumField.tsx:19](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/forms/EnumField.tsx#L19)
+Defined in: [lib/forms/EnumField.tsx:19](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/forms/EnumField.tsx#L19)
 
 Props for the EnumFieldValue component.
 
@@ -12,7 +12,7 @@ Props for the EnumFieldValue component.
 
 > `optional` **className**: `string`
 
-Defined in: [lib/forms/EnumField.tsx:22](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/forms/EnumField.tsx#L22)
+Defined in: [lib/forms/EnumField.tsx:22](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/forms/EnumField.tsx#L22)
 
 Additional CSS classes for the value container
 
@@ -22,7 +22,7 @@ Additional CSS classes for the value container
 
 > **fieldConfig**: [`FieldConfig`](FieldConfig.md)\<`number`\>
 
-Defined in: [lib/forms/EnumField.tsx:21](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/forms/EnumField.tsx#L21)
+Defined in: [lib/forms/EnumField.tsx:21](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/forms/EnumField.tsx#L21)
 
 The field configuration
 
@@ -32,7 +32,7 @@ The field configuration
 
 > `optional` **infos**: [`FieldConfigOptionInfos`](FieldConfigOptionInfos.md)
 
-Defined in: [lib/forms/EnumField.tsx:23](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/forms/EnumField.tsx#L23)
+Defined in: [lib/forms/EnumField.tsx:23](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/forms/EnumField.tsx#L23)
 
 Additional information for the option
 
@@ -42,7 +42,7 @@ Additional information for the option
 
 > `optional` **mode**: [`fieldDisplayMode`](fieldDisplayMode.md)
 
-Defined in: [lib/forms/EnumField.tsx:24](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/forms/EnumField.tsx#L24)
+Defined in: [lib/forms/EnumField.tsx:24](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/forms/EnumField.tsx#L24)
 
 The display mode of the component
 
@@ -52,6 +52,6 @@ The display mode of the component
 
 > **option**: [`FieldConfigOption`](FieldConfigOption.md)
 
-Defined in: [lib/forms/EnumField.tsx:20](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/forms/EnumField.tsx#L20)
+Defined in: [lib/forms/EnumField.tsx:20](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/forms/EnumField.tsx#L20)
 
 The enum option to display

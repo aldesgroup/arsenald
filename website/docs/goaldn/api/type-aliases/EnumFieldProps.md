@@ -2,7 +2,7 @@
 
 > **EnumFieldProps**\<`confAtom`\> = `object` & [`InputLabelProps`](InputLabelProps.md)
 
-Defined in: [lib/forms/EnumField.tsx:120](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/forms/EnumField.tsx#L120)
+Defined in: [lib/forms/EnumField.tsx:120](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/forms/EnumField.tsx#L120)
 
 Props for the EnumField component.
 

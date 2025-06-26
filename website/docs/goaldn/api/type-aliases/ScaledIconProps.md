@@ -2,7 +2,7 @@
 
 > **ScaledIconProps** = `object`
 
-Defined in: [lib/base/ScaledIcon.tsx:8](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/base/ScaledIcon.tsx#L8)
+Defined in: [lib/base/ScaledIcon.tsx:8](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/base/ScaledIcon.tsx#L8)
 
 Props for the ScaledIcon component.
 
@@ -12,7 +12,7 @@ Props for the ScaledIcon component.
 
 > **color**: `string`
 
-Defined in: [lib/base/ScaledIcon.tsx:12](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/base/ScaledIcon.tsx#L12)
+Defined in: [lib/base/ScaledIcon.tsx:12](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/base/ScaledIcon.tsx#L12)
 
 The color of the icon
 
@@ -22,7 +22,7 @@ The color of the icon
 
 > **Icon**: `LucideIcon`
 
-Defined in: [lib/base/ScaledIcon.tsx:10](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/base/ScaledIcon.tsx#L10)
+Defined in: [lib/base/ScaledIcon.tsx:10](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/base/ScaledIcon.tsx#L10)
 
 The Lucide icon component to render
 
@@ -32,7 +32,7 @@ The Lucide icon component to render
 
 > `optional` **size**: `number`
 
-Defined in: [lib/base/ScaledIcon.tsx:14](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/base/ScaledIcon.tsx#L14)
+Defined in: [lib/base/ScaledIcon.tsx:14](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/base/ScaledIcon.tsx#L14)
 
 The base size of the icon
 
@@ -42,7 +42,7 @@ The base size of the icon
 
 > `optional` **sizeMax**: `number`
 
-Defined in: [lib/base/ScaledIcon.tsx:16](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/base/ScaledIcon.tsx#L16)
+Defined in: [lib/base/ScaledIcon.tsx:16](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/base/ScaledIcon.tsx#L16)
 
 The maximum size the icon can scale to
 
@@ -52,6 +52,6 @@ The maximum size the icon can scale to
 
 > `optional` **translateX**: `number`
 
-Defined in: [lib/base/ScaledIcon.tsx:18](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/base/ScaledIcon.tsx#L18)
+Defined in: [lib/base/ScaledIcon.tsx:18](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/base/ScaledIcon.tsx#L18)
 
 The horizontal translation offset

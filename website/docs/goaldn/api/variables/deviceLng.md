@@ -2,6 +2,6 @@
 
 > `const` **deviceLng**: `string`
 
-Defined in: [lib/settings/settings.ts:14](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/settings/settings.ts#L14)
+Defined in: [lib/settings/settings.ts:14](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/settings/settings.ts#L14)
 
 Retrieves the device's language code from the first locale.

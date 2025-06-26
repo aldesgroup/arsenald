@@ -2,7 +2,7 @@
 
 > **TitleOption**(`title`, `params?`): [`OptionFunction`](../type-aliases/OptionFunction.md)
 
-Defined in: [lib/navigation/Navigator-options.tsx:87](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/navigation/Navigator-options.tsx#L87)
+Defined in: [lib/navigation/Navigator-options.tsx:87](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/navigation/Navigator-options.tsx#L87)
 
 Creates navigation options for a screen with a title and optional close icon.
 

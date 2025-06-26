@@ -2,7 +2,7 @@
 
 > **FieldConfig**\<`Value`\> = `object`
 
-Defined in: [lib/forms/fields.ts:48](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/forms/fields.ts#L48)
+Defined in: [lib/forms/fields.ts:48](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/forms/fields.ts#L48)
 
 Type definition for a field configuration.
 
@@ -18,7 +18,7 @@ Type definition for a field configuration.
 
 > `optional` **decrementDisabled**: () => `boolean`
 
-Defined in: [lib/forms/fields.ts:56](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/forms/fields.ts#L56)
+Defined in: [lib/forms/fields.ts:56](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/forms/fields.ts#L56)
 
 Custom hook to disable a control decreasing the field's value.
 
@@ -32,7 +32,7 @@ Custom hook to disable a control decreasing the field's value.
 
 > `optional` **disabled**: () => `boolean`
 
-Defined in: [lib/forms/fields.ts:51](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/forms/fields.ts#L51)
+Defined in: [lib/forms/fields.ts:51](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/forms/fields.ts#L51)
 
 Custom hook to provide a dynamic value for the `disabled` tag.
 
@@ -46,7 +46,7 @@ Custom hook to provide a dynamic value for the `disabled` tag.
 
 > `optional` **effects**: () => `void`[]
 
-Defined in: [lib/forms/fields.ts:52](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/forms/fields.ts#L52)
+Defined in: [lib/forms/fields.ts:52](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/forms/fields.ts#L52)
 
 Array of useEffect functions to apply.
 
@@ -60,7 +60,7 @@ Array of useEffect functions to apply.
 
 > **fieldAtom**: `FieldAtom`\<`Value`\>
 
-Defined in: [lib/forms/fields.ts:49](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/forms/fields.ts#L49)
+Defined in: [lib/forms/fields.ts:49](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/forms/fields.ts#L49)
 
 The embedded field to enrich with additional functionality.
 
@@ -70,7 +70,7 @@ The embedded field to enrich with additional functionality.
 
 > `optional` **incrementDisabled**: () => `boolean`
 
-Defined in: [lib/forms/fields.ts:57](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/forms/fields.ts#L57)
+Defined in: [lib/forms/fields.ts:57](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/forms/fields.ts#L57)
 
 Custom hook to disable a control increasing the field's value.
 
@@ -84,7 +84,7 @@ Custom hook to disable a control increasing the field's value.
 
 > `optional` **mandatory**: `boolean` \| () => `boolean`
 
-Defined in: [lib/forms/fields.ts:61](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/forms/fields.ts#L61)
+Defined in: [lib/forms/fields.ts:61](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/forms/fields.ts#L61)
 
 Indicates if a non-empty value is expected.
 
@@ -94,7 +94,7 @@ Indicates if a non-empty value is expected.
 
 > `optional` **max**: `number`
 
-Defined in: [lib/forms/fields.ts:54](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/forms/fields.ts#L54)
+Defined in: [lib/forms/fields.ts:54](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/forms/fields.ts#L54)
 
 A maximum value for a numeric field; a maximum length for a string field.
 
@@ -104,7 +104,7 @@ A maximum value for a numeric field; a maximum length for a string field.
 
 > `optional` **min**: `number`
 
-Defined in: [lib/forms/fields.ts:53](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/forms/fields.ts#L53)
+Defined in: [lib/forms/fields.ts:53](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/forms/fields.ts#L53)
 
 A minimum value for a numeric field; a minimum length for a string field.
 
@@ -114,7 +114,7 @@ A minimum value for a numeric field; a minimum length for a string field.
 
 > `optional` **options**: [`FieldConfigOption`](FieldConfigOption.md)[]
 
-Defined in: [lib/forms/fields.ts:58](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/forms/fields.ts#L58)
+Defined in: [lib/forms/fields.ts:58](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/forms/fields.ts#L58)
 
 Options for a select field.
 
@@ -124,7 +124,7 @@ Options for a select field.
 
 > `optional` **optionsInfos**: `Map`\<`number`, [`FieldConfigOptionInfos`](FieldConfigOptionInfos.md)\>
 
-Defined in: [lib/forms/fields.ts:60](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/forms/fields.ts#L60)
+Defined in: [lib/forms/fields.ts:60](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/forms/fields.ts#L60)
 
 Configuring additional behaviours on options passed to a select field.
 
@@ -134,7 +134,7 @@ Configuring additional behaviours on options passed to a select field.
 
 > `optional` **optionsOnly**: `number`[]
 
-Defined in: [lib/forms/fields.ts:59](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/forms/fields.ts#L59)
+Defined in: [lib/forms/fields.ts:59](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/forms/fields.ts#L59)
 
 Amongst the given options, which values to allow.
 
@@ -144,7 +144,7 @@ Amongst the given options, which values to allow.
 
 > `optional` **step**: `number`
 
-Defined in: [lib/forms/fields.ts:55](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/forms/fields.ts#L55)
+Defined in: [lib/forms/fields.ts:55](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/forms/fields.ts#L55)
 
 A step value for a numeric field.
 
@@ -154,7 +154,7 @@ A step value for a numeric field.
 
 > `optional` **valid**: () => `null` \| [`FieldValueError`](FieldValueError.md)
 
-Defined in: [lib/forms/fields.ts:62](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/forms/fields.ts#L62)
+Defined in: [lib/forms/fields.ts:62](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/forms/fields.ts#L62)
 
 Custom hook to provide a way to tell if the field's value is valid.
 
@@ -168,7 +168,7 @@ Custom hook to provide a way to tell if the field's value is valid.
 
 > `optional` **visible**: () => `boolean`
 
-Defined in: [lib/forms/fields.ts:50](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/forms/fields.ts#L50)
+Defined in: [lib/forms/fields.ts:50](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/forms/fields.ts#L50)
 
 Custom hook to condition the rendering of the field.
 

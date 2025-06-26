@@ -2,7 +2,7 @@
 
 > **useCheckAllAtomValues**\<`Value`\>(`atoms`, `predicate`): `boolean`
 
-Defined in: [lib/state-management/atoms.ts:54](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/state-management/atoms.ts#L54)
+Defined in: [lib/state-management/atoms.ts:54](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/state-management/atoms.ts#L54)
 
 Hook that checks if a predicate function returns true for all atoms in a list.
 

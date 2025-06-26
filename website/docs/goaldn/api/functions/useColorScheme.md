@@ -2,7 +2,7 @@
 
 > **useColorScheme**(): `object`
 
-Defined in: [lib/styling/useColorScheme.ts:14](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/styling/useColorScheme.ts#L14)
+Defined in: [lib/styling/useColorScheme.ts:14](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/styling/useColorScheme.ts#L14)
 
 Custom hook that provides the current color scheme and utilities to change it.
 Wraps the nativewind useColorScheme hook and ensures a default of 'dark'.
