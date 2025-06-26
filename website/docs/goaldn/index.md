@@ -18,37 +18,18 @@ GoaldN is the React Native mobile development component of the Devotion stack. I
 
 ## Getting Started with GoaldN
 
-### Prerequisites
-
-Before starting with GoaldN, ensure you have:
-
-- Node.js (v16 or higher)
-- React Native CLI or Expo CLI
-- Android Studio (for Android development)
-- Xcode (for iOS development, macOS only)
-- Git
-
 ### Installation
 
-1. **Install React Native CLI**:
-   ```bash
-   npm install -g @react-native-community/cli
-   ```
-
-2. **Create a new GoaldN project**:
-   ```bash
-   npx react-native init MyGoaldNApp --template goaldn-template
-   ```
-
-3. **Navigate to your project**:
-   ```bash
-   cd MyGoaldNApp
-   ```
-
-4. **Install dependencies**:
-   ```bash
-   npm install
-   ```
+1. Let's first create (under, say, GitHub or GitLab, or whatever) a blank project `MyAwesomeProject` (replace with your own name), then git-clone it into your git projects folder
+2. Let's dive into it: `cd $MYGITFOLDER/myawesomeproject`
+3. Following [these instructions](https://reactnative.dev/docs/getting-started-without-a-framework):
+   1. Let's [setup our dev environment](https://reactnative.dev/docs/set-up-your-environment)
+      1. from here, maybe just `aldev bootstrap -native MyAwesomeProject` ?
+   2. Remove the old installation if any: `npm uninstall -g react-native-cli @react-native-community/cli`
+   3. Let's install something fresh: `npx @react-native-community/cli@latest init MyAwesomeProject`
+   4. Let's prepare for monorepo mode: `mv MyAwesomeProject native`
+   5. Let's install the deps: `cd native && npm i`
+   6. Let's start the app (Android version):
 
 ### Development Setup
 
@@ -66,6 +47,8 @@ Before starting with GoaldN, ensure you have:
    ```bash
    npm run ios
    ```
+
+4. Then you can [start developing](./start.md)
 
 ## Integration with Other Components
 

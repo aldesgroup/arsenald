@@ -14,7 +14,7 @@ Contains the menu configuration with entries and icons
 
 #### menu
 
-`MenuProps`
+[`MenuProps`](../interfaces/MenuProps.md)
 
 ## Returns
 

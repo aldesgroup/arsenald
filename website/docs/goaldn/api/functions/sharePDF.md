@@ -2,7 +2,7 @@
 
 > **sharePDF**(`options`): `Promise`\<`void`\>
 
-Defined in: [lib/media/pdf.ts:67](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/media/pdf.ts#L67)
+Defined in: [lib/media/pdf.ts:51](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/media/pdf.ts#L51)
 
 Shares a PDF file generated from the provided options.
 

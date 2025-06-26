@@ -10,7 +10,7 @@ Navigator for the screens.
 
 ### screens
 
-`ScreensProps`
+[`ScreensProps`](../interfaces/ScreensProps.md)
 
 Contains the screens configuration with entries and icons
 

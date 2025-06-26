@@ -7,8 +7,18 @@ const typedocSidebar: SidebarsConfig = {
       items: [
         {
           type: "doc",
-          id: "goaldn/api/functions/Button",
+          id: "goaldn/api/variables/Button",
           label: "Button"
+        },
+        {
+          type: "doc",
+          id: "goaldn/api/variables/Txt",
+          label: "Txt"
+        },
+        {
+          type: "doc",
+          id: "goaldn/api/functions/ButtonImpl",
+          label: "ButtonImpl"
         },
         {
           type: "doc",
@@ -27,8 +37,8 @@ const typedocSidebar: SidebarsConfig = {
         },
         {
           type: "doc",
-          id: "goaldn/api/functions/Txt",
-          label: "Txt"
+          id: "goaldn/api/functions/TxtImpl",
+          label: "TxtImpl"
         }
       ]
     },
@@ -267,11 +277,6 @@ const typedocSidebar: SidebarsConfig = {
         },
         {
           type: "doc",
-          id: "goaldn/api/functions/printPDF",
-          label: "printPDF"
-        },
-        {
-          type: "doc",
           id: "goaldn/api/functions/savePDF",
           label: "savePDF"
         },
@@ -299,6 +304,56 @@ const typedocSidebar: SidebarsConfig = {
       items: [
         {
           type: "doc",
+          id: "goaldn/api/interfaces/MenuProps",
+          label: "MenuProps"
+        },
+        {
+          type: "doc",
+          id: "goaldn/api/interfaces/ScreensProps",
+          label: "ScreensProps"
+        },
+        {
+          type: "doc",
+          id: "goaldn/api/type-aliases/OptionFunction",
+          label: "OptionFunction"
+        },
+        {
+          type: "doc",
+          id: "goaldn/api/variables/RemoveBackButtonOption",
+          label: "RemoveBackButtonOption"
+        },
+        {
+          type: "doc",
+          id: "goaldn/api/variables/RemoveHeaderOption",
+          label: "RemoveHeaderOption"
+        },
+        {
+          type: "doc",
+          id: "goaldn/api/functions/AvatarOption",
+          label: "AvatarOption"
+        },
+        {
+          type: "doc",
+          id: "goaldn/api/functions/CloseIconOption",
+          label: "CloseIconOption"
+        },
+        {
+          type: "doc",
+          id: "goaldn/api/functions/CombineOptions",
+          label: "CombineOptions"
+        },
+        {
+          type: "doc",
+          id: "goaldn/api/functions/FadeInOption",
+          label: "FadeInOption"
+        },
+        {
+          type: "doc",
+          id: "goaldn/api/functions/LanguageSwitcherOption",
+          label: "LanguageSwitcherOption_"
+        },
+        {
+          type: "doc",
           id: "goaldn/api/functions/MainNavigator",
           label: "MainNavigator"
         },
@@ -306,6 +361,11 @@ const typedocSidebar: SidebarsConfig = {
           type: "doc",
           id: "goaldn/api/functions/ScreenNavigator",
           label: "ScreenNavigator"
+        },
+        {
+          type: "doc",
+          id: "goaldn/api/functions/TitleOption",
+          label: "TitleOption"
         },
         {
           type: "doc",
@@ -352,6 +412,11 @@ const typedocSidebar: SidebarsConfig = {
           type: "doc",
           id: "goaldn/api/variables/userSetSmallScreenAtom",
           label: "userSetSmallScreenAtom"
+        },
+        {
+          type: "doc",
+          id: "goaldn/api/functions/GenericSettings",
+          label: "GenericSettings"
         },
         {
           type: "doc",

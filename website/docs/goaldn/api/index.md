@@ -2,11 +2,13 @@
 
 ## Base
 
-- [Button](functions/Button.md)
+- [Button](variables/Button.md)
+- [Txt](variables/Txt.md)
+- [ButtonImpl](functions/ButtonImpl.md)
 - [cn](functions/cn.md)
 - [InputLabel](functions/InputLabel.md)
 - [ScaledIcon](functions/ScaledIcon.md)
-- [Txt](functions/Txt.md)
+- [TxtImpl](functions/TxtImpl.md)
 
 ## Bluetooth
 
@@ -63,7 +65,6 @@
 ## Media
 
 - [generatePDF](functions/generatePDF.md)
-- [printPDF](functions/printPDF.md)
 - [savePDF](functions/savePDF.md)
 - [sharePDF](functions/sharePDF.md)
 
@@ -73,8 +74,19 @@
 
 ## Navigation
 
+- [MenuProps](interfaces/MenuProps.md)
+- [ScreensProps](interfaces/ScreensProps.md)
+- [OptionFunction](type-aliases/OptionFunction.md)
+- [RemoveBackButtonOption](variables/RemoveBackButtonOption.md)
+- [RemoveHeaderOption](variables/RemoveHeaderOption.md)
+- [AvatarOption](functions/AvatarOption.md)
+- [CloseIconOption](functions/CloseIconOption.md)
+- [CombineOptions](functions/CombineOptions.md)
+- [FadeInOption](functions/FadeInOption.md)
+- [LanguageSwitcherOption\_](functions/LanguageSwitcherOption.md)
 - [MainNavigator](functions/MainNavigator.md)
 - [ScreenNavigator](functions/ScreenNavigator.md)
+- [TitleOption](functions/TitleOption.md)
 - [useHideTabBar](functions/useHideTabBar.md)
 
 ## Settings
@@ -86,6 +98,7 @@
 - [languageAtom](variables/languageAtom.md)
 - [smallScreenAtom](variables/smallScreenAtom.md)
 - [userSetSmallScreenAtom](variables/userSetSmallScreenAtom.md)
+- [GenericSettings](functions/GenericSettings.md)
 - [getFontScale](functions/getFontScale.md)
 - [getLanguages](functions/getLanguages.md)
 - [getPixelDensity](functions/getPixelDensity.md)

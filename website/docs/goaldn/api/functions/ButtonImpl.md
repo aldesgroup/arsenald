@@ -1,6 +1,6 @@
-# Function: Button()
+# Function: ButtonImpl()
 
-> **Button**(`props`, `ref`): `Element`
+> **ButtonImpl**(`props`, `ref`): `Element`
 
 Defined in: [lib/base/Button.tsx:93](https://github.com/aldesgroup/goaldn/blob/6a7943d02984b1a6b41d76a3a483a1484b644076/lib/base/Button.tsx#L93)
 
