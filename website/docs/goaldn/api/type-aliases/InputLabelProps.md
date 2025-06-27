@@ -2,7 +2,7 @@
 
 > **InputLabelProps** = `object`
 
-Defined in: [lib/base/InputLabel.tsx:13](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/base/InputLabel.tsx#L13)
+Defined in: [lib/base/InputLabel.tsx:13](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/base/InputLabel.tsx#L13)
 
 Props for the InputLabel component.
 
@@ -12,7 +12,7 @@ Props for the InputLabel component.
 
 > **label**: `string`
 
-Defined in: [lib/base/InputLabel.tsx:15](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/base/InputLabel.tsx#L15)
+Defined in: [lib/base/InputLabel.tsx:15](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/base/InputLabel.tsx#L15)
 
 The text label to display
 
@@ -22,7 +22,7 @@ The text label to display
 
 > `optional` **labelAppend**: `ReactNode`
 
-Defined in: [lib/base/InputLabel.tsx:19](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/base/InputLabel.tsx#L19)
+Defined in: [lib/base/InputLabel.tsx:19](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/base/InputLabel.tsx#L19)
 
 Additional content to append after the label
 
@@ -32,7 +32,7 @@ Additional content to append after the label
 
 > `optional` **labelClassName**: `string`
 
-Defined in: [lib/base/InputLabel.tsx:17](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/base/InputLabel.tsx#L17)
+Defined in: [lib/base/InputLabel.tsx:17](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/base/InputLabel.tsx#L17)
 
 Additional CSS classes for the label
 
@@ -42,7 +42,7 @@ Additional CSS classes for the label
 
 > `optional` **mandatory**: `boolean`
 
-Defined in: [lib/base/InputLabel.tsx:23](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/base/InputLabel.tsx#L23)
+Defined in: [lib/base/InputLabel.tsx:23](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/base/InputLabel.tsx#L23)
 
 Whether the field is mandatory
 
@@ -52,7 +52,7 @@ Whether the field is mandatory
 
 > `optional` **mode**: [`fieldDisplayMode`](fieldDisplayMode.md)
 
-Defined in: [lib/base/InputLabel.tsx:21](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/base/InputLabel.tsx#L21)
+Defined in: [lib/base/InputLabel.tsx:21](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/base/InputLabel.tsx#L21)
 
 The display mode of the label
 
@@ -62,6 +62,6 @@ The display mode of the label
 
 > `optional` **sideValue**: `boolean`
 
-Defined in: [lib/base/InputLabel.tsx:25](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/base/InputLabel.tsx#L25)
+Defined in: [lib/base/InputLabel.tsx:25](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/base/InputLabel.tsx#L25)
 
 Whether to display the label on the side

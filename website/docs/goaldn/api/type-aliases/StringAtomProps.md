@@ -2,7 +2,7 @@
 
 > **StringAtomProps**\<`A`, `InputProps`\> = `object` & [`InputLabelProps`](InputLabelProps.md) & `InputProps`
 
-Defined in: [lib/state-management/StringAtom.tsx:13](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/state-management/StringAtom.tsx#L13)
+Defined in: [lib/state-management/StringAtom.tsx:13](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/state-management/StringAtom.tsx#L13)
 
 Props for the StringAtom component.
 Extends InputLabelProps and InputProps with additional string-specific properties.

@@ -2,7 +2,7 @@
 
 > **savePDF**(`options`): `Promise`\<`null` \| `string`\>
 
-Defined in: [lib/media/pdf.ts:71](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/media/pdf.ts#L71)
+Defined in: [lib/media/pdf.ts:71](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/media/pdf.ts#L71)
 
 Saves a PDF file generated from the provided options to the device.
 

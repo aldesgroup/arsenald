@@ -2,7 +2,7 @@
 
 > **SwitchAtom**\<`A`\>(`props`): `Element`
 
-Defined in: [lib/state-management/SwitchAtom.tsx:34](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/state-management/SwitchAtom.tsx#L34)
+Defined in: [lib/state-management/SwitchAtom.tsx:34](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/state-management/SwitchAtom.tsx#L34)
 
 A component that renders a switch input bound to a Jotai atom.
 The switch state is controlled by the atom's value.

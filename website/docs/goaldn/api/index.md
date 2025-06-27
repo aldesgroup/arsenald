@@ -143,7 +143,7 @@
 - [ScaledIconProps](type-aliases/ScaledIconProps.md)
 - [ScaledTooltipProps](type-aliases/ScaledTooltipProps.md)
 - [SliderFieldProps](type-aliases/SliderFieldProps.md)
-- [StepperConfig](type-aliases/StepperConfig.md)
+- [StepperConfiguration](type-aliases/StepperConfiguration.md)
 - [StepperProps](type-aliases/StepperProps.md)
 - [StringAtomProps](type-aliases/StringAtomProps.md)
 - [StringFieldProps](type-aliases/StringFieldProps.md)
@@ -156,7 +156,7 @@
 - [buttonTextVariants](variables/buttonTextVariants.md)
 - [buttonVariants](variables/buttonVariants.md)
 - [buttonVariantsConfig](variables/buttonVariantsConfig.md)
-- [newStepperConfig](functions/newStepperConfig.md)
+- [newStepperConfiguration](functions/newStepperConfiguration.md)
 - [Stepper](functions/Stepper.md)
 - [textColorForVariant](functions/textColorForVariant.md)
 

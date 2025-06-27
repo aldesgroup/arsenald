@@ -613,8 +613,8 @@ const typedocSidebar: SidebarsConfig = {
         },
         {
           type: "doc",
-          id: "goaldn/api/type-aliases/StepperConfig",
-          label: "StepperConfig"
+          id: "goaldn/api/type-aliases/StepperConfiguration",
+          label: "StepperConfiguration"
         },
         {
           type: "doc",
@@ -678,8 +678,8 @@ const typedocSidebar: SidebarsConfig = {
         },
         {
           type: "doc",
-          id: "goaldn/api/functions/newStepperConfig",
-          label: "newStepperConfig"
+          id: "goaldn/api/functions/newStepperConfiguration",
+          label: "newStepperConfiguration"
         },
         {
           type: "doc",

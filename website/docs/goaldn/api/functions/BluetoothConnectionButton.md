@@ -2,7 +2,7 @@
 
 > **BluetoothConnectionButton**(`props`): `Element`
 
-Defined in: [lib/bluetooth/BluetoothConnectionButton.tsx:24](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/bluetooth/BluetoothConnectionButton.tsx#L24)
+Defined in: [lib/bluetooth/BluetoothConnectionButton.tsx:24](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/bluetooth/BluetoothConnectionButton.tsx#L24)
 
 A button component for initiating Bluetooth connections.
 Displays a Bluetooth icon and customizable text label.

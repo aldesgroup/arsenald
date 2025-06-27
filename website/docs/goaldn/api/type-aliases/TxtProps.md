@@ -2,7 +2,7 @@
 
 > **TxtProps** = `SlottableTextProps` & `object`
 
-Defined in: [lib/base/Txt.tsx:14](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/base/Txt.tsx#L14)
+Defined in: [lib/base/Txt.tsx:14](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/base/Txt.tsx#L14)
 
 Props for the Txt component.
 Extends SlottableTextProps with additional properties for text handling and translation.

@@ -2,7 +2,7 @@
 
 > **ScaledTooltipProps** = `Partial`\<`Omit`\<[`TooltipProps`](TooltipProps.md), `"trigger"`\>\> & `object`
 
-Defined in: [lib/layout/ScaledTooltip.tsx:10](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/layout/ScaledTooltip.tsx#L10)
+Defined in: [lib/layout/ScaledTooltip.tsx:10](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/layout/ScaledTooltip.tsx#L10)
 
 Props for the ScaledTooltip component.
 Extends TooltipProps but omits the trigger property and adds icon-specific properties.

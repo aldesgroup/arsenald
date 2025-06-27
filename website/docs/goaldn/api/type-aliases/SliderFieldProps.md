@@ -2,7 +2,7 @@
 
 > **SliderFieldProps**\<`T`\> = `object`
 
-Defined in: [lib/forms/SliderField.tsx:14](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/forms/SliderField.tsx#L14)
+Defined in: [lib/forms/SliderField.tsx:14](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/forms/SliderField.tsx#L14)
 
 Props for the SliderField component.
 
@@ -18,7 +18,7 @@ Props for the SliderField component.
 
 > `optional` **className**: `string`
 
-Defined in: [lib/forms/SliderField.tsx:16](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/forms/SliderField.tsx#L16)
+Defined in: [lib/forms/SliderField.tsx:16](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/forms/SliderField.tsx#L16)
 
 Additional CSS classes for the container
 
@@ -28,7 +28,7 @@ Additional CSS classes for the container
 
 > **field**: `T`
 
-Defined in: [lib/forms/SliderField.tsx:22](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/forms/SliderField.tsx#L22)
+Defined in: [lib/forms/SliderField.tsx:22](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/forms/SliderField.tsx#L22)
 
 The field configuration atom for the slider value
 
@@ -38,7 +38,7 @@ The field configuration atom for the slider value
 
 > **label**: `string`
 
-Defined in: [lib/forms/SliderField.tsx:18](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/forms/SliderField.tsx#L18)
+Defined in: [lib/forms/SliderField.tsx:18](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/forms/SliderField.tsx#L18)
 
 The label text for the slider
 
@@ -48,7 +48,7 @@ The label text for the slider
 
 > `optional` **labelClassName**: `string`
 
-Defined in: [lib/forms/SliderField.tsx:20](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/forms/SliderField.tsx#L20)
+Defined in: [lib/forms/SliderField.tsx:20](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/forms/SliderField.tsx#L20)
 
 Additional CSS classes for the label
 
@@ -58,7 +58,7 @@ Additional CSS classes for the label
 
 > `optional` **mode**: [`fieldDisplayMode`](fieldDisplayMode.md)
 
-Defined in: [lib/forms/SliderField.tsx:28](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/forms/SliderField.tsx#L28)
+Defined in: [lib/forms/SliderField.tsx:28](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/forms/SliderField.tsx#L28)
 
 The display mode for the field
 
@@ -68,7 +68,7 @@ The display mode for the field
 
 > `optional` **sliderClassName**: `string`
 
-Defined in: [lib/forms/SliderField.tsx:24](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/forms/SliderField.tsx#L24)
+Defined in: [lib/forms/SliderField.tsx:24](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/forms/SliderField.tsx#L24)
 
 Additional CSS classes for the slider
 
@@ -78,6 +78,6 @@ Additional CSS classes for the slider
 
 > `optional` **unit**: `string`
 
-Defined in: [lib/forms/SliderField.tsx:26](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/forms/SliderField.tsx#L26)
+Defined in: [lib/forms/SliderField.tsx:26](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/forms/SliderField.tsx#L26)
 
 The unit to display with the value (e.g., "%", "px")

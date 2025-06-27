@@ -2,7 +2,7 @@
 
 > **CloseIconOption**(`quitToScreen?`, `quitBackToRoot?`): (`__namedParameters`) => `object`
 
-Defined in: [lib/navigation/Navigator-options.tsx:39](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/navigation/Navigator-options.tsx#L39)
+Defined in: [lib/navigation/Navigator-options.tsx:39](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/navigation/Navigator-options.tsx#L39)
 
 Creates navigation options to show a close (X) icon in the header.
 The icon can navigate to a specific screen, back to root, or just go back.

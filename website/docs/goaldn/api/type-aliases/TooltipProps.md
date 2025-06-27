@@ -2,7 +2,7 @@
 
 > **TooltipProps** = `object`
 
-Defined in: [lib/layout/Tooltip.tsx:10](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/layout/Tooltip.tsx#L10)
+Defined in: [lib/layout/Tooltip.tsx:10](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/layout/Tooltip.tsx#L10)
 
 Props for the Tooltip component.
 
@@ -12,7 +12,7 @@ Props for the Tooltip component.
 
 > `optional` **bgColor**: `string`
 
-Defined in: [lib/layout/Tooltip.tsx:26](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/layout/Tooltip.tsx#L26)
+Defined in: [lib/layout/Tooltip.tsx:26](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/layout/Tooltip.tsx#L26)
 
 The background color of the tooltip
 
@@ -22,7 +22,7 @@ The background color of the tooltip
 
 > `optional` **borderWidth**: `number`
 
-Defined in: [lib/layout/Tooltip.tsx:30](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/layout/Tooltip.tsx#L30)
+Defined in: [lib/layout/Tooltip.tsx:30](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/layout/Tooltip.tsx#L30)
 
 Percentage of screen width to leave as margin on both sides
 
@@ -32,7 +32,7 @@ Percentage of screen width to leave as margin on both sides
 
 > `optional` **children**: `React.ReactNode`
 
-Defined in: [lib/layout/Tooltip.tsx:16](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/layout/Tooltip.tsx#L16)
+Defined in: [lib/layout/Tooltip.tsx:16](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/layout/Tooltip.tsx#L16)
 
 Custom content to render inside the tooltip
 
@@ -42,7 +42,7 @@ Custom content to render inside the tooltip
 
 > `optional` **className**: `string`
 
-Defined in: [lib/layout/Tooltip.tsx:18](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/layout/Tooltip.tsx#L18)
+Defined in: [lib/layout/Tooltip.tsx:18](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/layout/Tooltip.tsx#L18)
 
 Additional CSS classes for the container
 
@@ -52,7 +52,7 @@ Additional CSS classes for the container
 
 > `optional` **persistent**: `boolean`
 
-Defined in: [lib/layout/Tooltip.tsx:32](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/layout/Tooltip.tsx#L32)
+Defined in: [lib/layout/Tooltip.tsx:32](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/layout/Tooltip.tsx#L32)
 
 If true, tooltip requires explicit close; if false, closes on trigger release
 
@@ -62,7 +62,7 @@ If true, tooltip requires explicit close; if false, closes on trigger release
 
 > `optional` **text**: `string`
 
-Defined in: [lib/layout/Tooltip.tsx:14](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/layout/Tooltip.tsx#L14)
+Defined in: [lib/layout/Tooltip.tsx:14](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/layout/Tooltip.tsx#L14)
 
 The text content of the tooltip
 
@@ -72,7 +72,7 @@ The text content of the tooltip
 
 > `optional` **textClassName**: `string`
 
-Defined in: [lib/layout/Tooltip.tsx:20](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/layout/Tooltip.tsx#L20)
+Defined in: [lib/layout/Tooltip.tsx:20](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/layout/Tooltip.tsx#L20)
 
 Additional CSS classes for the tooltip text
 
@@ -82,7 +82,7 @@ Additional CSS classes for the tooltip text
 
 > `optional` **textColor**: `string`
 
-Defined in: [lib/layout/Tooltip.tsx:28](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/layout/Tooltip.tsx#L28)
+Defined in: [lib/layout/Tooltip.tsx:28](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/layout/Tooltip.tsx#L28)
 
 The text color of the tooltip
 
@@ -92,7 +92,7 @@ The text color of the tooltip
 
 > **trigger**: `React.ReactNode`
 
-Defined in: [lib/layout/Tooltip.tsx:12](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/layout/Tooltip.tsx#L12)
+Defined in: [lib/layout/Tooltip.tsx:12](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/layout/Tooltip.tsx#L12)
 
 The element that triggers the tooltip display
 
@@ -102,7 +102,7 @@ The element that triggers the tooltip display
 
 > `optional` **triggerSize**: `number`
 
-Defined in: [lib/layout/Tooltip.tsx:24](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/layout/Tooltip.tsx#L24)
+Defined in: [lib/layout/Tooltip.tsx:24](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/layout/Tooltip.tsx#L24)
 
 The size of the trigger element
 
@@ -112,6 +112,6 @@ The size of the trigger element
 
 > `optional` **underTrigger**: `boolean`
 
-Defined in: [lib/layout/Tooltip.tsx:22](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/layout/Tooltip.tsx#L22)
+Defined in: [lib/layout/Tooltip.tsx:22](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/layout/Tooltip.tsx#L22)
 
 If true, the tooltip appears below the trigger; otherwise above

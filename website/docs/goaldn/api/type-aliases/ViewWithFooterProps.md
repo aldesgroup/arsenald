@@ -2,7 +2,7 @@
 
 > **ViewWithFooterProps** = `object`
 
-Defined in: [lib/layout/ViewWithFooter.tsx:12](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/layout/ViewWithFooter.tsx#L12)
+Defined in: [lib/layout/ViewWithFooter.tsx:12](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/layout/ViewWithFooter.tsx#L12)
 
 Props for the ViewWithFooter component.
 
@@ -12,7 +12,7 @@ Props for the ViewWithFooter component.
 
 > **children**: `React.ReactNode`
 
-Defined in: [lib/layout/ViewWithFooter.tsx:14](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/layout/ViewWithFooter.tsx#L14)
+Defined in: [lib/layout/ViewWithFooter.tsx:14](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/layout/ViewWithFooter.tsx#L14)
 
 The content to display in the scrollable area
 
@@ -22,7 +22,7 @@ The content to display in the scrollable area
 
 > `optional` **contentClassName**: `string`
 
-Defined in: [lib/layout/ViewWithFooter.tsx:16](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/layout/ViewWithFooter.tsx#L16)
+Defined in: [lib/layout/ViewWithFooter.tsx:16](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/layout/ViewWithFooter.tsx#L16)
 
 Additional CSS classes for the content area
 
@@ -32,7 +32,7 @@ Additional CSS classes for the content area
 
 > `optional` **footerClassName**: `string`
 
-Defined in: [lib/layout/ViewWithFooter.tsx:18](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/layout/ViewWithFooter.tsx#L18)
+Defined in: [lib/layout/ViewWithFooter.tsx:18](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/layout/ViewWithFooter.tsx#L18)
 
 Additional CSS classes for the footer
 
@@ -42,7 +42,7 @@ Additional CSS classes for the footer
 
 > `optional` **leftButtonDisabled**: `boolean`
 
-Defined in: [lib/layout/ViewWithFooter.tsx:26](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/layout/ViewWithFooter.tsx#L26)
+Defined in: [lib/layout/ViewWithFooter.tsx:26](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/layout/ViewWithFooter.tsx#L26)
 
 Whether the left button is disabled
 
@@ -52,7 +52,7 @@ Whether the left button is disabled
 
 > `optional` **leftButtonIcon**: `null` \| `LucideIcon`
 
-Defined in: [lib/layout/ViewWithFooter.tsx:28](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/layout/ViewWithFooter.tsx#L28)
+Defined in: [lib/layout/ViewWithFooter.tsx:28](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/layout/ViewWithFooter.tsx#L28)
 
 Icon for the left button
 
@@ -62,7 +62,7 @@ Icon for the left button
 
 > `optional` **leftButtonLabel**: `string`
 
-Defined in: [lib/layout/ViewWithFooter.tsx:20](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/layout/ViewWithFooter.tsx#L20)
+Defined in: [lib/layout/ViewWithFooter.tsx:20](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/layout/ViewWithFooter.tsx#L20)
 
 Label for the left button
 
@@ -72,7 +72,7 @@ Label for the left button
 
 > **leftButtonOnPress**: `null` \| () => `void`
 
-Defined in: [lib/layout/ViewWithFooter.tsx:24](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/layout/ViewWithFooter.tsx#L24)
+Defined in: [lib/layout/ViewWithFooter.tsx:24](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/layout/ViewWithFooter.tsx#L24)
 
 Function to call when left button is pressed
 
@@ -82,7 +82,7 @@ Function to call when left button is pressed
 
 > `optional` **leftButtonVariant**: [`buttonVariantsType`](buttonVariantsType.md)
 
-Defined in: [lib/layout/ViewWithFooter.tsx:22](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/layout/ViewWithFooter.tsx#L22)
+Defined in: [lib/layout/ViewWithFooter.tsx:22](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/layout/ViewWithFooter.tsx#L22)
 
 Variant for the left button
 
@@ -92,7 +92,7 @@ Variant for the left button
 
 > `optional` **rightButtonDisabled**: `boolean`
 
-Defined in: [lib/layout/ViewWithFooter.tsx:36](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/layout/ViewWithFooter.tsx#L36)
+Defined in: [lib/layout/ViewWithFooter.tsx:36](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/layout/ViewWithFooter.tsx#L36)
 
 Whether the right button is disabled
 
@@ -102,7 +102,7 @@ Whether the right button is disabled
 
 > `optional` **rightButtonIcon**: `null` \| `LucideIcon`
 
-Defined in: [lib/layout/ViewWithFooter.tsx:38](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/layout/ViewWithFooter.tsx#L38)
+Defined in: [lib/layout/ViewWithFooter.tsx:38](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/layout/ViewWithFooter.tsx#L38)
 
 Icon for the right button
 
@@ -112,7 +112,7 @@ Icon for the right button
 
 > `optional` **rightButtonLabel**: `string`
 
-Defined in: [lib/layout/ViewWithFooter.tsx:30](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/layout/ViewWithFooter.tsx#L30)
+Defined in: [lib/layout/ViewWithFooter.tsx:30](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/layout/ViewWithFooter.tsx#L30)
 
 Label for the right button
 
@@ -122,7 +122,7 @@ Label for the right button
 
 > **rightButtonOnPress**: () => `void`
 
-Defined in: [lib/layout/ViewWithFooter.tsx:34](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/layout/ViewWithFooter.tsx#L34)
+Defined in: [lib/layout/ViewWithFooter.tsx:34](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/layout/ViewWithFooter.tsx#L34)
 
 Function to call when right button is pressed
 
@@ -136,6 +136,6 @@ Function to call when right button is pressed
 
 > `optional` **rightButtonVariant**: [`buttonVariantsType`](buttonVariantsType.md)
 
-Defined in: [lib/layout/ViewWithFooter.tsx:32](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/layout/ViewWithFooter.tsx#L32)
+Defined in: [lib/layout/ViewWithFooter.tsx:32](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/layout/ViewWithFooter.tsx#L32)
 
 Variant for the right button

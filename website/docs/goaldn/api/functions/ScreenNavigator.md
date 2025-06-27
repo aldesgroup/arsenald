@@ -2,7 +2,7 @@
 
 > **ScreenNavigator**(`screens`): `Element`
 
-Defined in: [lib/navigation/Navigator.tsx:19](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/navigation/Navigator.tsx#L19)
+Defined in: [lib/navigation/Navigator.tsx:19](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/navigation/Navigator.tsx#L19)
 
 Navigator for the screens.
 

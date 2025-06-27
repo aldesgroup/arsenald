@@ -2,7 +2,7 @@
 
 > **CollapsableCard**(`__namedParameters`): `Element`
 
-Defined in: [lib/layout/CardCollapsable.tsx:22](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/layout/CardCollapsable.tsx#L22)
+Defined in: [lib/layout/CardCollapsable.tsx:22](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/layout/CardCollapsable.tsx#L22)
 
 A collapsible card component that can be expanded and collapsed with a header and optional content.
 The card supports both controlled (via atom) and uncontrolled state management.

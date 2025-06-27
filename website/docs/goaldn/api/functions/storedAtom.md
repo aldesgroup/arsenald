@@ -2,7 +2,7 @@
 
 > **storedAtom**\<`T`\>(`key`, `defaultValue`): `WritableAtom`\<`T` \| `Promise`\<`T`\>, \[`SetStateActionWithReset`\<`T` \| `Promise`\<`T`\>\>\], `Promise`\<`void`\>\>
 
-Defined in: [lib/state-management/atoms.ts:18](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/state-management/atoms.ts#L18)
+Defined in: [lib/state-management/atoms.ts:18](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/state-management/atoms.ts#L18)
 
 Creates a Jotai atom that persists its value in AsyncStorage.
 

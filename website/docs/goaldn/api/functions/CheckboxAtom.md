@@ -2,7 +2,7 @@
 
 > **CheckboxAtom**\<`A`, `B`\>(`props`): `Element`
 
-Defined in: [lib/state-management/CheckboxAtom.tsx:44](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/state-management/CheckboxAtom.tsx#L44)
+Defined in: [lib/state-management/CheckboxAtom.tsx:44](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/state-management/CheckboxAtom.tsx#L44)
 
 A checkbox component that integrates with Jotai atoms for state management.
 Supports group behavior with associated checkboxes and customizable styling.

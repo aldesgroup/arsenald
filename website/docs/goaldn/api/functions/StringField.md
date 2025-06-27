@@ -2,7 +2,7 @@
 
 > **StringField**\<`confAtom`, `InputProps`\>(`props`): `false` \| `Element`
 
-Defined in: [lib/forms/StringField.tsx:37](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/forms/StringField.tsx#L37)
+Defined in: [lib/forms/StringField.tsx:37](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/forms/StringField.tsx#L37)
 
 A form field component that renders a string input with validation and error handling.
 Supports different display modes (input, sheet, report) and handles various value types.

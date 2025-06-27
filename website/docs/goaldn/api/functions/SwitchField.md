@@ -2,7 +2,7 @@
 
 > **SwitchField**\<`confAtom`\>(`props`): `false` \| `Element`
 
-Defined in: [lib/forms/SwitchField.tsx:33](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/forms/SwitchField.tsx#L33)
+Defined in: [lib/forms/SwitchField.tsx:33](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/forms/SwitchField.tsx#L33)
 
 A form field component that renders a switch input.
 The switch state is controlled by the field configuration atom.

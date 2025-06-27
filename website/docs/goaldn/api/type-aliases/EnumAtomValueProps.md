@@ -2,7 +2,7 @@
 
 > **EnumAtomValueProps**\<`T`, `A`\> = `object`
 
-Defined in: [lib/state-management/EnumAtom.tsx:22](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/state-management/EnumAtom.tsx#L22)
+Defined in: [lib/state-management/EnumAtom.tsx:22](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/state-management/EnumAtom.tsx#L22)
 
 Props for the EnumAtomValue component.
 
@@ -26,7 +26,7 @@ The type of the atom
 
 > **atom**: `A`
 
-Defined in: [lib/state-management/EnumAtom.tsx:26](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/state-management/EnumAtom.tsx#L26)
+Defined in: [lib/state-management/EnumAtom.tsx:26](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/state-management/EnumAtom.tsx#L26)
 
 The Jotai atom controlling the selection
 
@@ -36,7 +36,7 @@ The Jotai atom controlling the selection
 
 > `optional` **badgeClassName**: `string`
 
-Defined in: [lib/state-management/EnumAtom.tsx:28](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/state-management/EnumAtom.tsx#L28)
+Defined in: [lib/state-management/EnumAtom.tsx:28](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/state-management/EnumAtom.tsx#L28)
 
 Additional CSS classes for the badge
 
@@ -46,7 +46,7 @@ Additional CSS classes for the badge
 
 > `optional` **mode**: [`fieldDisplayMode`](fieldDisplayMode.md)
 
-Defined in: [lib/state-management/EnumAtom.tsx:32](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/state-management/EnumAtom.tsx#L32)
+Defined in: [lib/state-management/EnumAtom.tsx:32](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/state-management/EnumAtom.tsx#L32)
 
 The display mode of the component
 
@@ -56,7 +56,7 @@ The display mode of the component
 
 > **option**: `T`
 
-Defined in: [lib/state-management/EnumAtom.tsx:24](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/state-management/EnumAtom.tsx#L24)
+Defined in: [lib/state-management/EnumAtom.tsx:24](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/state-management/EnumAtom.tsx#L24)
 
 The enum option value
 
@@ -66,7 +66,7 @@ The enum option value
 
 > `optional` **raw**: `boolean`
 
-Defined in: [lib/state-management/EnumAtom.tsx:34](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/state-management/EnumAtom.tsx#L34)
+Defined in: [lib/state-management/EnumAtom.tsx:34](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/state-management/EnumAtom.tsx#L34)
 
 Whether to render raw text without styling
 
@@ -76,6 +76,6 @@ Whether to render raw text without styling
 
 > `optional` **textClassName**: `string`
 
-Defined in: [lib/state-management/EnumAtom.tsx:30](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/state-management/EnumAtom.tsx#L30)
+Defined in: [lib/state-management/EnumAtom.tsx:30](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/state-management/EnumAtom.tsx#L30)
 
 Additional CSS classes for the text

@@ -2,7 +2,7 @@
 
 > `const` **buttonVariantsConfig**: `object`
 
-Defined in: [lib/base/Button.tsx:15](https://github.com/aldesgroup/goaldn/blob/850e22fffd19501920628173674ada43cba9a29a/lib/base/Button.tsx#L15)
+Defined in: [lib/base/Button.tsx:15](https://github.com/aldesgroup/goaldn/blob/b43e92ae42dcd6febc9c2c8f0742ef8c669d44f6/lib/base/Button.tsx#L15)
 
 Configuration object for button variants and sizes.
 Defines the styling variants and size options for the Button component.
